@@ -4,13 +4,14 @@ export default Component.extend({
     init() {
         this._super(...arguments);
 
-        this.createCodepoints(12);
+        this.createCodepoints(this.get('exponent'));
     },
 
     didInsertElement() {
         this._super(...arguments);
 
-        console.log('filter codepoints');
+        let codepointsFiltered = [];
+
         this.get('codepoints').forEach(codepoint => {
             // Use the width to check if the icon is defined
             let iconElement = document.querySelector(`#${codepoint} i`);
@@ -18,8 +19,17 @@ export default Component.extend({
             if (iconElement.offsetWidth < 24) {
                 // Hide the div element
                 iconElement.parentElement.className += ' hide';
+
+            } else {
+                codepointsFiltered.push({
+                    codepoint,
+                    key: ''
+                });
+
             }
         });
+
+        this.set('codepointsJSON', JSON.stringify(codepointsFiltered, null, 4));
     },
 
     // Create all codepoints that Material Design Icons might use

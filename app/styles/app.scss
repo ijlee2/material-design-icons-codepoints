@@ -3,44 +3,63 @@ body {
     padding: 0;
 }
 
-.codepoint-card {
-    width  : 48px;
-    height : 48px;
-    margin : 0 0 8px 0;
-    padding: 6px;
-    border : 1px solid #ccc;
+.grid-view, .list-view {
+    float: left;
+}
 
-    display   : inline-block;
-    text-align: center;
+.grid-view {
+    .codepoint-card {
+        width  : 48px;
+        height : 48px;
+        margin : 0 0 8px 0;
+        padding: 6px;
+        border : 1px solid #ccc;
 
-    .material-icons {
-        font-family: 'Material Icons';
-        font-weight: normal;
-        font-style : normal;
-        font-size  : 24px;    /* Preferred icon size */
+        display   : inline-block;
+        text-align: center;
 
-        display       : inline-block;
-        line-height   : 1;
-        text-transform: none;
-        letter-spacing: normal;
-        word-wrap     : normal;
-        white-space   : nowrap;
-        direction     : ltr;
+        .material-icons {
+            font-family: 'Material Icons';
+            font-weight: normal;
+            font-style : normal;
+            font-size  : 24px;    /* Preferred icon size */
 
-        /* Support for all WebKit browsers. */
-        -webkit-font-smoothing: antialiased;
+            display       : inline-block;
+            line-height   : 1;
+            text-transform: none;
+            letter-spacing: normal;
+            word-wrap     : normal;
+            white-space   : nowrap;
+            direction     : ltr;
 
-        /* Support for Safari and Chrome. */
-        text-rendering: optimizeLegibility;
+            /* Support for all WebKit browsers. */
+            -webkit-font-smoothing: antialiased;
 
-        /* Support for Firefox. */
-        -moz-osx-font-smoothing: grayscale;
+            /* Support for Safari and Chrome. */
+            text-rendering: optimizeLegibility;
 
-        /* Support for IE. */
-        font-feature-settings: 'liga';
+            /* Support for Firefox. */
+            -moz-osx-font-smoothing: grayscale;
+
+            /* Support for IE. */
+            font-feature-settings: 'liga';
+        }
+
+        &.hide {
+            display: none;
+        }
     }
+}
 
-    &.hide {
-        display: none;
+.list-view {
+    ul {
+        margin : 0;
+        padding: 0;
+
+        list-style-type: none;
+
+        li {
+            margin-bottom: 8px;
+        }
     }
 }

@@ -1,6 +1,12 @@
-{{#each codepoints as |codepoint|}}
-    <div id={{codepoint}} class='codepoint-card'>
-        <i class='material-icons'>{{{unicode codepoint}}}</i>
-        <span class='codepoint-card--name'>{{codepoint}}</span>
-    </div>
-{{/each}}
+<div class="grid-view">
+    {{#each codepoints as |codepoint|}}
+        <div id={{codepoint}} class='codepoint-card'>
+            <i class='material-icons'>{{{unicode codepoint}}}</i>
+            <span class='codepoint-card--name'>{{codepoint}}</span>
+        </div>
+    {{/each}}
+</div>
+
+<div class="list-view">
+    <pre>{{{codepointsJSON}}}</pre>
+</div>

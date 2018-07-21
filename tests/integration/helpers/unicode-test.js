@@ -4,14 +4,13 @@ import { render } from '@ember/test-helpers';
 import hbs from 'htmlbars-inline-precompile';
 
 module('Integration | Helper | unicode', function(hooks) {
-  setupRenderingTest(hooks);
+    setupRenderingTest(hooks);
 
-  // Replace this with your real tests.
-  test('it renders', async function(assert) {
-    this.set('inputValue', '1234');
+    test('Helper works', async function(assert) {
+        this.set('inputValue', '1234');
 
-    await render(hbs`{{unicode inputValue}}`);
+        await render(hbs`{{unicode inputValue}}`);
 
-    assert.equal(this.element.textContent.trim(), '1234');
-  });
+        assert.equal(this.element.textContent.trim(), '&#x1234;');
+    });
 });
