@@ -7,6 +7,21 @@ export default Component.extend({
         this.createCodepoints(12);
     },
 
+    didInsertElement() {
+        this._super(...arguments);
+
+        console.log('filter codepoints');
+        this.get('codepoints').forEach(codepoint => {
+            // Use the width to check if the icon is defined
+            let iconElement = document.querySelector(`#${codepoint} i`);
+
+            if (iconElement.offsetWidth < 24) {
+                // Hide the div element
+                iconElement.parentElement.className += ' hide';
+            }
+        });
+    },
+
     // Create all codepoints that Material Design Icons might use
     createCodepoints(exponent) {
         let   codepoints    = [];
