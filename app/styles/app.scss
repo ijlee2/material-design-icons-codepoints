@@ -13,10 +13,11 @@ body {
         height : 48px;
         margin : 0 0 8px 0;
         padding: 6px;
-        border : 1px solid #ccc;
+        border : 1px solid #e2e2e2;
 
-        display   : inline-block;
-        text-align: center;
+        display       : inline-block;
+        vertical-align: top;
+        text-align    : center;
 
         .material-icons {
             font-family: 'Material Icons';
@@ -47,6 +48,24 @@ body {
 
         &.hide {
             display: none;
+        }
+
+        &.new {
+            border: 1px solid orange;
+        }
+
+        &.missing {
+            border: 1px solid green;
+        }
+
+        &.unknown {
+            border: 1px solid #e2e2e2;
+            opacity: 0.3;
+        }
+
+        &:hover {
+            transform: scale(1.025);
+            transition: 0.1s;
         }
     }
 }

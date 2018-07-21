@@ -1,1 +1,12 @@
-{{try-all-codepoints exponent=12}}
+<div class='grid-view'>
+    {{#each model as |character|}}
+        <div
+            id={{character.codepoint}}
+            class='codepoint-card {{if character.isNew 'new'}} {{if character.isMissingFromDocumentation 'missing'}} {{unless character.key 'unknown'}}'
+            title={{character.key}}
+        >
+            <i class='material-icons'>{{character.key}}</i>
+            <span class='codepoint-card--name'>{{character.codepoint}}</span>
+        </div>
+    {{/each}}
+</div>
