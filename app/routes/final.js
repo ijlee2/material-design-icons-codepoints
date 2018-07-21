@@ -65,283 +65,283 @@ export default Route.extend({
             },
             {
                 "codepoint": "e028",
-                "key": ""
+                "key": "loop"
             },
             {
                 "codepoint": "e029",
-                "key": ""
+                "key": "mic"
             },
             {
                 "codepoint": "e02a",
-                "key": ""
+                "key": "mic_none"
             },
             {
                 "codepoint": "e02b",
-                "key": ""
+                "key": "mic_off"
             },
             {
                 "codepoint": "e02c",
-                "key": ""
+                "key": "movie"
             },
             {
                 "codepoint": "e02e",
-                "key": ""
+                "key": "library_add"
             },
             {
                 "codepoint": "e02f",
-                "key": ""
+                "key": "library_books"
             },
             {
                 "codepoint": "e030",
-                "key": ""
+                "key": "library_music"
             },
             {
                 "codepoint": "e031",
-                "key": ""
+                "key": "new_releases"
             },
             {
                 "codepoint": "e033",
-                "key": ""
+                "key": "not_interested"
             },
             {
                 "codepoint": "e034",
-                "key": ""
+                "key": "pause"
             },
             {
                 "codepoint": "e035",
-                "key": ""
+                "key": "pause_circle_filled"
             },
             {
                 "codepoint": "e036",
-                "key": ""
+                "key": "pause_circle_outline"
             },
             {
                 "codepoint": "e037",
-                "key": ""
+                "key": "play_arrow"
             },
             {
                 "codepoint": "e038",
-                "key": ""
+                "key": "play_circle_filled"
             },
             {
                 "codepoint": "e039",
-                "key": ""
+                "key": "play_circle_outline"
             },
             {
                 "codepoint": "e03b",
-                "key": ""
+                "key": "playlist_add"
             },
             {
                 "codepoint": "e03c",
-                "key": ""
+                "key": "queue"
             },
             {
                 "codepoint": "e03d",
-                "key": ""
+                "key": "queue_music"
             },
             {
                 "codepoint": "e03e",
-                "key": ""
+                "key": "radio"
             },
             {
                 "codepoint": "e03f",
-                "key": ""
+                "key": "recent_actors"
             },
             {
                 "codepoint": "e040",
-                "key": ""
+                "key": "repeat"
             },
             {
                 "codepoint": "e041",
-                "key": ""
+                "key": "repeat_one"
             },
             {
                 "codepoint": "e042",
-                "key": ""
+                "key": "replay"
             },
             {
                 "codepoint": "e043",
-                "key": ""
+                "key": "shuffle"
             },
             {
                 "codepoint": "e044",
-                "key": ""
+                "key": "skip_next"
             },
             {
                 "codepoint": "e045",
-                "key": ""
+                "key": "skip_previous"
             },
             {
                 "codepoint": "e046",
-                "key": ""
+                "key": "snooze"
             },
             {
                 "codepoint": "e047",
-                "key": ""
+                "key": "stop"
             },
             {
                 "codepoint": "e048",
-                "key": ""
+                "key": "subtitles"
             },
             {
                 "codepoint": "e049",
-                "key": ""
+                "key": "surround_sound"
             },
             {
                 "codepoint": "e04a",
-                "key": ""
+                "key": "video_library"
             },
             {
                 "codepoint": "e04b",
-                "key": ""
+                "key": "videocam"
             },
             {
                 "codepoint": "e04c",
-                "key": ""
+                "key": "videocam_off"
             },
             {
                 "codepoint": "e04d",
-                "key": ""
+                "key": "volume_down"
             },
             {
                 "codepoint": "e04e",
-                "key": ""
+                "key": "volume_mute"
             },
             {
                 "codepoint": "e04f",
-                "key": ""
+                "key": "volume_off"
             },
             {
                 "codepoint": "e050",
-                "key": ""
+                "key": "volume_up"
             },
             {
                 "codepoint": "e051",
-                "key": ""
+                "key": "web"
             },
             {
                 "codepoint": "e052",
-                "key": ""
+                "key": "hd"
             },
             {
                 "codepoint": "e053",
-                "key": ""
+                "key": "sort_by_alpha"
             },
             {
                 "codepoint": "e055",
-                "key": ""
+                "key": "airplay"
             },
             {
                 "codepoint": "e056",
-                "key": ""
+                "key": "forward_10"
             },
             {
                 "codepoint": "e057",
-                "key": ""
+                "key": "forward_30"
             },
             {
                 "codepoint": "e058",
-                "key": ""
+                "key": "forward_5"
             },
             {
                 "codepoint": "e059",
-                "key": ""
+                "key": "replay_10"
             },
             {
                 "codepoint": "e05a",
-                "key": ""
+                "key": "replay_30"
             },
             {
                 "codepoint": "e05b",
-                "key": ""
+                "key": "replay_5"
             },
             {
                 "codepoint": "e05c",
-                "key": ""
+                "key": "add_to_queue"
             },
             {
                 "codepoint": "e05d",
-                "key": ""
+                "key": "fiber_dvr"
             },
             {
                 "codepoint": "e05e",
-                "key": ""
+                "key": "fiber_new"
             },
             {
                 "codepoint": "e05f",
-                "key": ""
+                "key": "playlist_play"
             },
             {
                 "codepoint": "e060",
-                "key": ""
+                "key": "art_track"
             },
             {
                 "codepoint": "e061",
-                "key": ""
+                "key": "fiber_manual_record"
             },
             {
                 "codepoint": "e062",
-                "key": ""
+                "key": "fiber_smart_record"
             },
             {
                 "codepoint": "e063",
-                "key": ""
+                "key": "music_video"
             },
             {
                 "codepoint": "e064",
-                "key": ""
+                "key": "subscriptions"
             },
             {
                 "codepoint": "e065",
-                "key": ""
+                "key": "playlist_add_check"
             },
             {
                 "codepoint": "e066",
-                "key": ""
+                "key": "queue_play_next"
             },
             {
                 "codepoint": "e067",
-                "key": ""
+                "key": "remove_from_queue"
             },
             {
                 "codepoint": "e068",
-                "key": ""
+                "key": "slow_motion_video"
             },
             {
                 "codepoint": "e069",
-                "key": ""
+                "key": "web_asset"
             },
             {
                 "codepoint": "e06a",
-                "key": ""
+                "key": "fiber_pin"
             },
             {
                 "codepoint": "e06b",
-                "key": ""
+                "key": "branding_watermark"
             },
             {
                 "codepoint": "e06c",
-                "key": ""
+                "key": "call_to_action"
             },
             {
                 "codepoint": "e06d",
-                "key": ""
+                "key": "featured_play_list"
             },
             {
                 "codepoint": "e06e",
-                "key": ""
+                "key": "featured_video"
             },
             {
                 "codepoint": "e06f",
-                "key": ""
+                "key": "note"
             },
             {
                 "codepoint": "e070",
-                "key": ""
+                "key": "video_call"
             },
             {
                 "codepoint": "e071",
-                "key": ""
+                "key": "video_label"
             },
             {
                 "codepoint": "e072",
@@ -357,203 +357,203 @@ export default Route.extend({
             },
             {
                 "codepoint": "e0af",
-                "key": ""
+                "key": "business"
             },
             {
                 "codepoint": "e0b0",
-                "key": ""
+                "key": "call"
             },
             {
                 "codepoint": "e0b1",
-                "key": ""
+                "key": "call_end"
             },
             {
                 "codepoint": "e0b2",
-                "key": ""
+                "key": "call_made"
             },
             {
                 "codepoint": "e0b3",
-                "key": ""
+                "key": "call_merge"
             },
             {
                 "codepoint": "e0b4",
-                "key": ""
+                "key": "call_missed"
             },
             {
                 "codepoint": "e0b5",
-                "key": ""
+                "key": "call_received"
             },
             {
                 "codepoint": "e0b6",
-                "key": ""
+                "key": "call_split"
             },
             {
                 "codepoint": "e0b7",
-                "key": ""
+                "key": "chat"
             },
             {
                 "codepoint": "e0b8",
-                "key": ""
+                "key": "clear_all"
             },
             {
                 "codepoint": "e0b9",
-                "key": ""
+                "key": "comment"
             },
             {
                 "codepoint": "e0ba",
-                "key": ""
+                "key": "contacts"
             },
             {
                 "codepoint": "e0bb",
-                "key": ""
+                "key": "dialer_sip"
             },
             {
                 "codepoint": "e0bc",
-                "key": ""
+                "key": "dialpad"
             },
             {
                 "codepoint": "e0be",
-                "key": ""
+                "key": "email"
             },
             {
                 "codepoint": "e0bf",
-                "key": ""
+                "key": "forum"
             },
             {
                 "codepoint": "e0c3",
-                "key": ""
+                "key": "import_export"
             },
             {
                 "codepoint": "e0c4",
-                "key": ""
+                "key": "invert_colors_off"
             },
             {
                 "codepoint": "e0c6",
-                "key": ""
+                "key": "live_help"
             },
             {
                 "codepoint": "e0c7",
-                "key": ""
+                "key": "location_off"
             },
             {
                 "codepoint": "e0c8",
-                "key": ""
+                "key": "location_on"
             },
             {
                 "codepoint": "e0c9",
-                "key": ""
+                "key": "message"
             },
             {
                 "codepoint": "e0ca",
-                "key": ""
+                "key": "chat_bubble"
             },
             {
                 "codepoint": "e0cb",
-                "key": ""
+                "key": "chat_bubble_outline"
             },
             {
                 "codepoint": "e0cc",
-                "key": ""
+                "key": "no_sim"
             },
             {
                 "codepoint": "e0cd",
-                "key": ""
+                "key": "phone"
             },
             {
                 "codepoint": "e0ce",
-                "key": ""
+                "key": "portable_wifi_off"
             },
             {
                 "codepoint": "e0cf",
-                "key": ""
+                "key": "contact_phone"
             },
             {
                 "codepoint": "e0d0",
-                "key": ""
+                "key": "contact_mail"
             },
             {
                 "codepoint": "e0d1",
-                "key": ""
+                "key": "ring_volume"
             },
             {
                 "codepoint": "e0d2",
-                "key": ""
+                "key": "speaker_phone"
             },
             {
                 "codepoint": "e0d3",
-                "key": ""
+                "key": "stay_current_landscape"
             },
             {
                 "codepoint": "e0d4",
-                "key": ""
+                "key": "stay_current_portrait"
             },
             {
                 "codepoint": "e0d5",
-                "key": ""
+                "key": "stay_primary_landscape"
             },
             {
                 "codepoint": "e0d6",
-                "key": ""
+                "key": "stay_primary_portrait"
             },
             {
                 "codepoint": "e0d7",
-                "key": ""
+                "key": "swap_calls"
             },
             {
                 "codepoint": "e0d8",
-                "key": ""
+                "key": "textsms"
             },
             {
                 "codepoint": "e0d9",
-                "key": ""
+                "key": "voicemail"
             },
             {
                 "codepoint": "e0da",
-                "key": ""
+                "key": "vpn_key"
             },
             {
                 "codepoint": "e0db",
-                "key": ""
+                "key": "phonelink_erase"
             },
             {
                 "codepoint": "e0dc",
-                "key": ""
+                "key": "phonelink_lock"
             },
             {
                 "codepoint": "e0dd",
-                "key": ""
+                "key": "phonelink_ring"
             },
             {
                 "codepoint": "e0de",
-                "key": ""
+                "key": "phonelink_setup"
             },
             {
                 "codepoint": "e0df",
-                "key": ""
+                "key": "present_to_all"
             },
             {
                 "codepoint": "e0e0",
-                "key": ""
+                "key": "import_contacts"
             },
             {
                 "codepoint": "e0e1",
-                "key": ""
+                "key": "mail_outline"
             },
             {
                 "codepoint": "e0e2",
-                "key": ""
+                "key": "screen_share"
             },
             {
                 "codepoint": "e0e3",
-                "key": ""
+                "key": "stop_screen_share"
             },
             {
                 "codepoint": "e0e4",
-                "key": ""
+                "key": "call_missed_outgoing"
             },
             {
                 "codepoint": "e0e5",
-                "key": ""
+                "key": "rss_feed"
             },
             {
                 "codepoint": "e0e6",
@@ -601,167 +601,167 @@ export default Route.extend({
             },
             {
                 "codepoint": "e145",
-                "key": ""
+                "key": "add"
             },
             {
                 "codepoint": "e146",
-                "key": ""
+                "key": "add_box"
             },
             {
                 "codepoint": "e147",
-                "key": ""
+                "key": "add_circle"
             },
             {
                 "codepoint": "e148",
-                "key": ""
+                "key": "add_circle_outline"
             },
             {
                 "codepoint": "e149",
-                "key": ""
+                "key": "archive"
             },
             {
                 "codepoint": "e14a",
-                "key": ""
+                "key": "backspace"
             },
             {
                 "codepoint": "e14b",
-                "key": ""
+                "key": "block"
             },
             {
                 "codepoint": "e14c",
-                "key": ""
+                "key": "clear"
             },
             {
                 "codepoint": "e14d",
-                "key": ""
+                "key": "content_copy"
             },
             {
                 "codepoint": "e14e",
-                "key": ""
+                "key": "content_cut"
             },
             {
                 "codepoint": "e14f",
-                "key": ""
+                "key": "content_paste"
             },
             {
                 "codepoint": "e150",
-                "key": ""
+                "key": "create"
             },
             {
                 "codepoint": "e151",
-                "key": ""
+                "key": "drafts"
             },
             {
                 "codepoint": "e152",
-                "key": ""
+                "key": "filter_list"
             },
             {
                 "codepoint": "e153",
-                "key": ""
+                "key": "flag"
             },
             {
                 "codepoint": "e154",
-                "key": ""
+                "key": "forward"
             },
             {
                 "codepoint": "e155",
-                "key": ""
+                "key": "gesture"
             },
             {
                 "codepoint": "e156",
-                "key": ""
+                "key": "inbox"
             },
             {
                 "codepoint": "e157",
-                "key": ""
+                "key": "link"
             },
             {
                 "codepoint": "e158",
-                "key": ""
+                "key": "mail"
             },
             {
                 "codepoint": "e159",
-                "key": ""
+                "key": "markunread"
             },
             {
                 "codepoint": "e15a",
-                "key": ""
+                "key": "redo"
             },
             {
                 "codepoint": "e15b",
-                "key": ""
+                "key": "remove"
             },
             {
                 "codepoint": "e15c",
-                "key": ""
+                "key": "remove_circle"
             },
             {
                 "codepoint": "e15d",
-                "key": ""
+                "key": "remove_circle_outline"
             },
             {
                 "codepoint": "e15e",
-                "key": ""
+                "key": "reply"
             },
             {
                 "codepoint": "e15f",
-                "key": ""
+                "key": "reply_all"
             },
             {
                 "codepoint": "e160",
-                "key": ""
+                "key": "report"
             },
             {
                 "codepoint": "e161",
-                "key": ""
+                "key": "save"
             },
             {
                 "codepoint": "e162",
-                "key": ""
+                "key": "select_all"
             },
             {
                 "codepoint": "e163",
-                "key": ""
+                "key": "send"
             },
             {
                 "codepoint": "e164",
-                "key": ""
+                "key": "sort"
             },
             {
                 "codepoint": "e165",
-                "key": ""
+                "key": "text_format"
             },
             {
                 "codepoint": "e166",
-                "key": ""
+                "key": "undo"
             },
             {
                 "codepoint": "e167",
-                "key": ""
+                "key": "font_download"
             },
             {
                 "codepoint": "e168",
-                "key": ""
+                "key": "move_to_inbox"
             },
             {
                 "codepoint": "e169",
-                "key": ""
+                "key": "unarchive"
             },
             {
                 "codepoint": "e16a",
-                "key": ""
+                "key": "next_week"
             },
             {
                 "codepoint": "e16b",
-                "key": ""
+                "key": "weekend"
             },
             {
                 "codepoint": "e16c",
-                "key": ""
+                "key": "delete_sweep"
             },
             {
                 "codepoint": "e16d",
-                "key": ""
+                "key": "low_priority"
             },
             {
                 "codepoint": "e16e",
@@ -813,211 +813,211 @@ export default Route.extend({
             },
             {
                 "codepoint": "e190",
-                "key": ""
+                "key": "access_alarm"
             },
             {
                 "codepoint": "e191",
-                "key": ""
+                "key": "access_alarms"
             },
             {
                 "codepoint": "e192",
-                "key": ""
+                "key": "access_time"
             },
             {
                 "codepoint": "e193",
-                "key": ""
+                "key": "add_alarm"
             },
             {
                 "codepoint": "e194",
-                "key": ""
+                "key": "airplanemode_inactive"
             },
             {
                 "codepoint": "e195",
-                "key": ""
+                "key": "airplanemode_active"
             },
             {
                 "codepoint": "e19c",
-                "key": ""
+                "key": "battery_alert"
             },
             {
                 "codepoint": "e1a3",
-                "key": ""
+                "key": "battery_charging_full"
             },
             {
                 "codepoint": "e1a4",
-                "key": ""
+                "key": "battery_full"
             },
             {
                 "codepoint": "e1a5",
-                "key": ""
+                "key": "battery_std"
             },
             {
                 "codepoint": "e1a6",
-                "key": ""
+                "key": "battery_unknown"
             },
             {
                 "codepoint": "e1a7",
-                "key": ""
+                "key": "bluetooth"
             },
             {
                 "codepoint": "e1a8",
-                "key": ""
+                "key": "bluetooth_connected"
             },
             {
                 "codepoint": "e1a9",
-                "key": ""
+                "key": "bluetooth_disabled"
             },
             {
                 "codepoint": "e1aa",
-                "key": ""
+                "key": "bluetooth_searching"
             },
             {
                 "codepoint": "e1ab",
-                "key": ""
+                "key": "brightness_auto"
             },
             {
                 "codepoint": "e1ac",
-                "key": ""
+                "key": "brightness_high"
             },
             {
                 "codepoint": "e1ad",
-                "key": ""
+                "key": "brightness_low"
             },
             {
                 "codepoint": "e1ae",
-                "key": ""
+                "key": "brightness_medium"
             },
             {
                 "codepoint": "e1af",
-                "key": ""
+                "key": "data_usage"
             },
             {
                 "codepoint": "e1b0",
-                "key": ""
+                "key": "developer_mode"
             },
             {
                 "codepoint": "e1b1",
-                "key": ""
+                "key": "devices"
             },
             {
                 "codepoint": "e1b2",
-                "key": ""
+                "key": "dvr"
             },
             {
                 "codepoint": "e1b3",
-                "key": ""
+                "key": "gps_fixed"
             },
             {
                 "codepoint": "e1b4",
-                "key": ""
+                "key": "gps_not_fixed"
             },
             {
                 "codepoint": "e1b5",
-                "key": ""
+                "key": "gps_off"
             },
             {
                 "codepoint": "e1b6",
-                "key": ""
+                "key": "location_disabled"
             },
             {
                 "codepoint": "e1b7",
-                "key": ""
+                "key": "location_searching"
             },
             {
                 "codepoint": "e1b8",
-                "key": ""
+                "key": "graphic_eq"
             },
             {
                 "codepoint": "e1b9",
-                "key": ""
+                "key": "network_cell"
             },
             {
                 "codepoint": "e1ba",
-                "key": ""
+                "key": "network_wifi"
             },
             {
                 "codepoint": "e1bb",
-                "key": ""
+                "key": "nfc"
             },
             {
                 "codepoint": "e1bc",
-                "key": ""
+                "key": "wallpaper"
             },
             {
                 "codepoint": "e1bd",
-                "key": ""
+                "key": "widgets"
             },
             {
                 "codepoint": "e1be",
-                "key": ""
+                "key": "screen_lock_landscape"
             },
             {
                 "codepoint": "e1bf",
-                "key": ""
+                "key": "screen_lock_portrait"
             },
             {
                 "codepoint": "e1c0",
-                "key": ""
+                "key": "screen_lock_rotation"
             },
             {
                 "codepoint": "e1c1",
-                "key": ""
+                "key": "screen_rotation"
             },
             {
                 "codepoint": "e1c2",
-                "key": ""
+                "key": "sd_storage"
             },
             {
                 "codepoint": "e1c3",
-                "key": ""
+                "key": "settings_system_daydream"
             },
             {
                 "codepoint": "e1c8",
-                "key": ""
+                "key": "signal_cellular_4_bar"
             },
             {
                 "codepoint": "e1cd",
-                "key": ""
+                "key": "signal_cellular_connected_no_internet_4_bar"
             },
             {
                 "codepoint": "e1ce",
-                "key": ""
+                "key": "signal_cellular_no_sim"
             },
             {
                 "codepoint": "e1cf",
-                "key": ""
+                "key": "signal_cellular_null"
             },
             {
                 "codepoint": "e1d0",
-                "key": ""
+                "key": "signal_cellular_off"
             },
             {
                 "codepoint": "e1d8",
-                "key": ""
+                "key": "signal_wifi_4_bar"
             },
             {
                 "codepoint": "e1d9",
-                "key": ""
+                "key": "signal_wifi_4_bar_lock"
             },
             {
                 "codepoint": "e1da",
-                "key": ""
+                "key": "signal_wifi_off"
             },
             {
                 "codepoint": "e1db",
-                "key": ""
+                "key": "storage"
             },
             {
                 "codepoint": "e1e0",
-                "key": ""
+                "key": "usb"
             },
             {
                 "codepoint": "e1e1",
-                "key": ""
+                "key": "wifi_lock"
             },
             {
                 "codepoint": "e1e2",
-                "key": ""
+                "key": "wifi_tethering"
             },
             {
                 "codepoint": "e1fe",
@@ -1041,255 +1041,255 @@ export default Route.extend({
             },
             {
                 "codepoint": "e226",
-                "key": ""
+                "key": "attach_file"
             },
             {
                 "codepoint": "e227",
-                "key": ""
+                "key": "attach_money"
             },
             {
                 "codepoint": "e228",
-                "key": ""
+                "key": "border_all"
             },
             {
                 "codepoint": "e229",
-                "key": ""
+                "key": "border_bottom"
             },
             {
                 "codepoint": "e22a",
-                "key": ""
+                "key": "border_clear"
             },
             {
                 "codepoint": "e22b",
-                "key": ""
+                "key": "border_color"
             },
             {
                 "codepoint": "e22c",
-                "key": ""
+                "key": "border_horizontal"
             },
             {
                 "codepoint": "e22d",
-                "key": ""
+                "key": "border_inner"
             },
             {
                 "codepoint": "e22e",
-                "key": ""
+                "key": "border_left"
             },
             {
                 "codepoint": "e22f",
-                "key": ""
+                "key": "border_outer"
             },
             {
                 "codepoint": "e230",
-                "key": ""
+                "key": "border_right"
             },
             {
                 "codepoint": "e231",
-                "key": ""
+                "key": "border_style"
             },
             {
                 "codepoint": "e232",
-                "key": ""
+                "key": "border_top"
             },
             {
                 "codepoint": "e233",
-                "key": ""
+                "key": "border_vertical"
             },
             {
                 "codepoint": "e234",
-                "key": ""
+                "key": "format_align_center"
             },
             {
                 "codepoint": "e235",
-                "key": ""
+                "key": "format_align_justify"
             },
             {
                 "codepoint": "e236",
-                "key": ""
+                "key": "format_align_left"
             },
             {
                 "codepoint": "e237",
-                "key": ""
+                "key": "format_align_right"
             },
             {
                 "codepoint": "e238",
-                "key": ""
+                "key": "format_bold"
             },
             {
                 "codepoint": "e239",
-                "key": ""
+                "key": "format_clear"
             },
             {
                 "codepoint": "e23a",
-                "key": ""
+                "key": "format_color_fill"
             },
             {
                 "codepoint": "e23b",
-                "key": ""
+                "key": "format_color_reset"
             },
             {
                 "codepoint": "e23c",
-                "key": ""
+                "key": "format_color_text"
             },
             {
                 "codepoint": "e23d",
-                "key": ""
+                "key": "format_indent_decrease"
             },
             {
                 "codepoint": "e23e",
-                "key": ""
+                "key": "format_indent_increase"
             },
             {
                 "codepoint": "e23f",
-                "key": ""
+                "key": "format_italic"
             },
             {
                 "codepoint": "e240",
-                "key": ""
+                "key": "format_line_spacing"
             },
             {
                 "codepoint": "e241",
-                "key": ""
+                "key": "format_list_bulleted"
             },
             {
                 "codepoint": "e242",
-                "key": ""
+                "key": "format_list_numbered"
             },
             {
                 "codepoint": "e243",
-                "key": ""
+                "key": "format_paint"
             },
             {
                 "codepoint": "e244",
-                "key": ""
+                "key": "format_quote"
             },
             {
                 "codepoint": "e245",
-                "key": ""
+                "key": "format_size"
             },
             {
                 "codepoint": "e246",
-                "key": ""
+                "key": "format_strikethrough"
             },
             {
                 "codepoint": "e247",
-                "key": ""
+                "key": "format_textdirection_l_to_r"
             },
             {
                 "codepoint": "e248",
-                "key": ""
+                "key": "format_textdirection_r_to_l"
             },
             {
                 "codepoint": "e249",
-                "key": ""
+                "key": "format_underlined"
             },
             {
                 "codepoint": "e24a",
-                "key": ""
+                "key": "functions"
             },
             {
                 "codepoint": "e24b",
-                "key": ""
+                "key": "insert_chart"
             },
             {
                 "codepoint": "e24c",
-                "key": ""
+                "key": "insert_comment"
             },
             {
                 "codepoint": "e24d",
-                "key": ""
+                "key": "insert_drive_file"
             },
             {
                 "codepoint": "e24e",
-                "key": ""
+                "key": "insert_emoticon"
             },
             {
                 "codepoint": "e24f",
-                "key": ""
+                "key": "insert_invitation"
             },
             {
                 "codepoint": "e250",
-                "key": ""
+                "key": "insert_link"
             },
             {
                 "codepoint": "e251",
-                "key": ""
+                "key": "insert_photo"
             },
             {
                 "codepoint": "e252",
-                "key": ""
+                "key": "merge_type"
             },
             {
                 "codepoint": "e253",
-                "key": ""
+                "key": "mode_comment"
             },
             {
                 "codepoint": "e254",
-                "key": ""
+                "key": "mode_edit"
             },
             {
                 "codepoint": "e255",
-                "key": ""
+                "key": "publish"
             },
             {
                 "codepoint": "e256",
-                "key": ""
+                "key": "space_bar"
             },
             {
                 "codepoint": "e257",
-                "key": ""
+                "key": "strikethrough_s"
             },
             {
                 "codepoint": "e258",
-                "key": ""
+                "key": "vertical_align_bottom"
             },
             {
                 "codepoint": "e259",
-                "key": ""
+                "key": "vertical_align_center"
             },
             {
                 "codepoint": "e25a",
-                "key": ""
+                "key": "vertical_align_top"
             },
             {
                 "codepoint": "e25b",
-                "key": ""
+                "key": "wrap_text"
             },
             {
                 "codepoint": "e25c",
-                "key": ""
+                "key": "money_off"
             },
             {
                 "codepoint": "e25d",
-                "key": ""
+                "key": "drag_handle"
             },
             {
                 "codepoint": "e25e",
-                "key": ""
+                "key": "format_shapes"
             },
             {
                 "codepoint": "e25f",
-                "key": ""
+                "key": "highlight"
             },
             {
                 "codepoint": "e260",
-                "key": ""
+                "key": "linear_scale"
             },
             {
                 "codepoint": "e261",
-                "key": ""
+                "key": "short_text"
             },
             {
                 "codepoint": "e262",
-                "key": ""
+                "key": "text_fields"
             },
             {
                 "codepoint": "e263",
-                "key": ""
+                "key": "monetization_on"
             },
             {
                 "codepoint": "e264",
-                "key": ""
+                "key": "title"
             },
             {
                 "codepoint": "e265",
@@ -1325,251 +1325,251 @@ export default Route.extend({
             },
             {
                 "codepoint": "e2bc",
-                "key": ""
+                "key": "attachment"
             },
             {
                 "codepoint": "e2bd",
-                "key": ""
+                "key": "cloud"
             },
             {
                 "codepoint": "e2be",
-                "key": ""
+                "key": "cloud_circle"
             },
             {
                 "codepoint": "e2bf",
-                "key": ""
+                "key": "cloud_done"
             },
             {
                 "codepoint": "e2c0",
-                "key": ""
+                "key": "cloud_download"
             },
             {
                 "codepoint": "e2c1",
-                "key": ""
+                "key": "cloud_off"
             },
             {
                 "codepoint": "e2c2",
-                "key": ""
+                "key": "cloud_queue"
             },
             {
                 "codepoint": "e2c3",
-                "key": ""
+                "key": "cloud_upload"
             },
             {
                 "codepoint": "e2c4",
-                "key": ""
+                "key": "file_download"
             },
             {
                 "codepoint": "e2c6",
-                "key": ""
+                "key": "file_upload"
             },
             {
                 "codepoint": "e2c7",
-                "key": ""
+                "key": "folder"
             },
             {
                 "codepoint": "e2c8",
-                "key": ""
+                "key": "folder_open"
             },
             {
                 "codepoint": "e2c9",
-                "key": ""
+                "key": "folder_shared"
             },
             {
                 "codepoint": "e2cc",
-                "key": ""
+                "key": "create_new_folder"
             },
             {
                 "codepoint": "e307",
-                "key": ""
+                "key": "cast"
             },
             {
                 "codepoint": "e308",
-                "key": ""
+                "key": "cast_connected"
             },
             {
                 "codepoint": "e30a",
-                "key": ""
+                "key": "computer"
             },
             {
                 "codepoint": "e30b",
-                "key": ""
+                "key": "desktop_mac"
             },
             {
                 "codepoint": "e30c",
-                "key": ""
+                "key": "desktop_windows"
             },
             {
                 "codepoint": "e30d",
-                "key": ""
+                "key": "developer_board"
             },
             {
                 "codepoint": "e30e",
-                "key": ""
+                "key": "dock"
             },
             {
                 "codepoint": "e30f",
-                "key": ""
+                "key": "gamepad"
             },
             {
                 "codepoint": "e310",
-                "key": ""
+                "key": "headset"
             },
             {
                 "codepoint": "e311",
-                "key": ""
+                "key": "headset_mic"
             },
             {
                 "codepoint": "e312",
-                "key": ""
+                "key": "keyboard"
             },
             {
                 "codepoint": "e313",
-                "key": ""
+                "key": "keyboard_arrow_down"
             },
             {
                 "codepoint": "e314",
-                "key": ""
+                "key": "keyboard_arrow_left"
             },
             {
                 "codepoint": "e315",
-                "key": ""
+                "key": "keyboard_arrow_right"
             },
             {
                 "codepoint": "e316",
-                "key": ""
+                "key": "keyboard_arrow_up"
             },
             {
                 "codepoint": "e317",
-                "key": ""
+                "key": "keyboard_backspace"
             },
             {
                 "codepoint": "e318",
-                "key": ""
+                "key": "keyboard_capslock"
             },
             {
                 "codepoint": "e31a",
-                "key": ""
+                "key": "keyboard_hide"
             },
             {
                 "codepoint": "e31b",
-                "key": ""
+                "key": "keyboard_return"
             },
             {
                 "codepoint": "e31c",
-                "key": ""
+                "key": "keyboard_tab"
             },
             {
                 "codepoint": "e31d",
-                "key": ""
+                "key": "keyboard_voice"
             },
             {
                 "codepoint": "e31e",
-                "key": ""
+                "key": "laptop"
             },
             {
                 "codepoint": "e31f",
-                "key": ""
+                "key": "laptop_chromebook"
             },
             {
                 "codepoint": "e320",
-                "key": ""
+                "key": "laptop_mac"
             },
             {
                 "codepoint": "e321",
-                "key": ""
+                "key": "laptop_windows"
             },
             {
                 "codepoint": "e322",
-                "key": ""
+                "key": "memory"
             },
             {
                 "codepoint": "e323",
-                "key": ""
+                "key": "mouse"
             },
             {
                 "codepoint": "e324",
-                "key": ""
+                "key": "phone_android"
             },
             {
                 "codepoint": "e325",
-                "key": ""
+                "key": "phone_iphone"
             },
             {
                 "codepoint": "e326",
-                "key": ""
+                "key": "phonelink"
             },
             {
                 "codepoint": "e327",
-                "key": ""
+                "key": "phonelink_off"
             },
             {
                 "codepoint": "e328",
-                "key": ""
+                "key": "router"
             },
             {
                 "codepoint": "e329",
-                "key": ""
+                "key": "scanner"
             },
             {
                 "codepoint": "e32a",
-                "key": ""
+                "key": "security"
             },
             {
                 "codepoint": "e32b",
-                "key": ""
+                "key": "sim_card"
             },
             {
                 "codepoint": "e32c",
-                "key": ""
+                "key": "smartphone"
             },
             {
                 "codepoint": "e32d",
-                "key": ""
+                "key": "speaker"
             },
             {
                 "codepoint": "e32e",
-                "key": ""
+                "key": "speaker_group"
             },
             {
                 "codepoint": "e32f",
-                "key": ""
+                "key": "tablet"
             },
             {
                 "codepoint": "e330",
-                "key": ""
+                "key": "tablet_android"
             },
             {
                 "codepoint": "e331",
-                "key": ""
+                "key": "tablet_mac"
             },
             {
                 "codepoint": "e332",
-                "key": ""
+                "key": "toys"
             },
             {
                 "codepoint": "e333",
-                "key": ""
+                "key": "tv"
             },
             {
                 "codepoint": "e334",
-                "key": ""
+                "key": "watch"
             },
             {
                 "codepoint": "e335",
-                "key": ""
+                "key": "device_hub"
             },
             {
                 "codepoint": "e336",
-                "key": ""
+                "key": "power_input"
             },
             {
                 "codepoint": "e337",
-                "key": ""
+                "key": "devices_other"
             },
             {
                 "codepoint": "e338",
-                "key": ""
+                "key": "videogame_asset"
             },
             {
                 "codepoint": "e339",
@@ -1581,623 +1581,623 @@ export default Route.extend({
             },
             {
                 "codepoint": "e39d",
-                "key": ""
+                "key": "add_to_photos"
             },
             {
                 "codepoint": "e39e",
-                "key": ""
+                "key": "adjust"
             },
             {
                 "codepoint": "e39f",
-                "key": ""
+                "key": "assistant"
             },
             {
                 "codepoint": "e3a0",
-                "key": ""
+                "key": "assistant_photo"
             },
             {
                 "codepoint": "e3a1",
-                "key": ""
+                "key": "audiotrack"
             },
             {
                 "codepoint": "e3a2",
-                "key": ""
+                "key": "blur_circular"
             },
             {
                 "codepoint": "e3a3",
-                "key": ""
+                "key": "blur_linear"
             },
             {
                 "codepoint": "e3a4",
-                "key": ""
+                "key": "blur_off"
             },
             {
                 "codepoint": "e3a5",
-                "key": ""
+                "key": "blur_on"
             },
             {
                 "codepoint": "e3a6",
-                "key": ""
+                "key": "brightness_1"
             },
             {
                 "codepoint": "e3a7",
-                "key": ""
+                "key": "brightness_2"
             },
             {
                 "codepoint": "e3a8",
-                "key": ""
+                "key": "brightness_3"
             },
             {
                 "codepoint": "e3a9",
-                "key": ""
+                "key": "brightness_4"
             },
             {
                 "codepoint": "e3aa",
-                "key": ""
+                "key": "brightness_5"
             },
             {
                 "codepoint": "e3ab",
-                "key": ""
+                "key": "brightness_6"
             },
             {
                 "codepoint": "e3ac",
-                "key": ""
+                "key": "brightness_7"
             },
             {
                 "codepoint": "e3ad",
-                "key": ""
+                "key": "broken_image"
             },
             {
                 "codepoint": "e3ae",
-                "key": ""
+                "key": "brush"
             },
             {
                 "codepoint": "e3af",
-                "key": ""
+                "key": "camera"
             },
             {
                 "codepoint": "e3b0",
-                "key": ""
+                "key": "camera_alt"
             },
             {
                 "codepoint": "e3b1",
-                "key": ""
+                "key": "camera_front"
             },
             {
                 "codepoint": "e3b2",
-                "key": ""
+                "key": "camera_rear"
             },
             {
                 "codepoint": "e3b3",
-                "key": ""
+                "key": "camera_roll"
             },
             {
                 "codepoint": "e3b4",
-                "key": ""
+                "key": "center_focus_strong"
             },
             {
                 "codepoint": "e3b5",
-                "key": ""
+                "key": "center_focus_weak"
             },
             {
                 "codepoint": "e3b6",
-                "key": ""
+                "key": "collections"
             },
             {
                 "codepoint": "e3b7",
-                "key": ""
+                "key": "color_lens"
             },
             {
                 "codepoint": "e3b8",
-                "key": ""
+                "key": "colorize"
             },
             {
                 "codepoint": "e3b9",
-                "key": ""
+                "key": "compare"
             },
             {
                 "codepoint": "e3ba",
-                "key": ""
+                "key": "control_point"
             },
             {
                 "codepoint": "e3bb",
-                "key": ""
+                "key": "control_point_duplicate"
             },
             {
                 "codepoint": "e3bc",
-                "key": ""
+                "key": "crop_16_9"
             },
             {
                 "codepoint": "e3bd",
-                "key": ""
+                "key": "crop_3_2"
             },
             {
                 "codepoint": "e3be",
-                "key": ""
+                "key": "crop"
             },
             {
                 "codepoint": "e3bf",
-                "key": ""
+                "key": "crop_5_4"
             },
             {
                 "codepoint": "e3c0",
-                "key": ""
+                "key": "crop_7_5"
             },
             {
                 "codepoint": "e3c1",
-                "key": ""
+                "key": "crop_din"
             },
             {
                 "codepoint": "e3c2",
-                "key": ""
+                "key": "crop_free"
             },
             {
                 "codepoint": "e3c3",
-                "key": ""
+                "key": "crop_landscape"
             },
             {
                 "codepoint": "e3c4",
-                "key": ""
+                "key": "crop_original"
             },
             {
                 "codepoint": "e3c5",
-                "key": ""
+                "key": "crop_portrait"
             },
             {
                 "codepoint": "e3c6",
-                "key": ""
+                "key": "crop_square"
             },
             {
                 "codepoint": "e3c7",
-                "key": ""
+                "key": "dehaze"
             },
             {
                 "codepoint": "e3c8",
-                "key": ""
+                "key": "details"
             },
             {
                 "codepoint": "e3c9",
-                "key": ""
+                "key": "edit"
             },
             {
                 "codepoint": "e3ca",
-                "key": ""
+                "key": "exposure"
             },
             {
                 "codepoint": "e3cb",
-                "key": ""
+                "key": "exposure_neg_1"
             },
             {
                 "codepoint": "e3cc",
-                "key": ""
+                "key": "exposure_neg_2"
             },
             {
                 "codepoint": "e3cd",
-                "key": ""
+                "key": "exposure_plus_1"
             },
             {
                 "codepoint": "e3ce",
-                "key": ""
+                "key": "exposure_plus_2"
             },
             {
                 "codepoint": "e3cf",
-                "key": ""
+                "key": "exposure_zero"
             },
             {
                 "codepoint": "e3d0",
-                "key": ""
+                "key": "filter_1"
             },
             {
                 "codepoint": "e3d1",
-                "key": ""
+                "key": "filter_2"
             },
             {
                 "codepoint": "e3d2",
-                "key": ""
+                "key": "filter_3"
             },
             {
                 "codepoint": "e3d3",
-                "key": ""
+                "key": "filter"
             },
             {
                 "codepoint": "e3d4",
-                "key": ""
+                "key": "filter_4"
             },
             {
                 "codepoint": "e3d5",
-                "key": ""
+                "key": "filter_5"
             },
             {
                 "codepoint": "e3d6",
-                "key": ""
+                "key": "filter_6"
             },
             {
                 "codepoint": "e3d7",
-                "key": ""
+                "key": "filter_7"
             },
             {
                 "codepoint": "e3d8",
-                "key": ""
+                "key": "filter_8"
             },
             {
                 "codepoint": "e3d9",
-                "key": ""
+                "key": "filter_9"
             },
             {
                 "codepoint": "e3da",
-                "key": ""
+                "key": "filter_9_plus"
             },
             {
                 "codepoint": "e3db",
-                "key": ""
+                "key": "filter_b_and_w"
             },
             {
                 "codepoint": "e3dc",
-                "key": ""
+                "key": "filter_center_focus"
             },
             {
                 "codepoint": "e3dd",
-                "key": ""
+                "key": "filter_drama"
             },
             {
                 "codepoint": "e3de",
-                "key": ""
+                "key": "filter_frames"
             },
             {
                 "codepoint": "e3df",
-                "key": ""
+                "key": "filter_hdr"
             },
             {
                 "codepoint": "e3e0",
-                "key": ""
+                "key": "filter_none"
             },
             {
                 "codepoint": "e3e2",
-                "key": ""
+                "key": "filter_tilt_shift"
             },
             {
                 "codepoint": "e3e3",
-                "key": ""
+                "key": "filter_vintage"
             },
             {
                 "codepoint": "e3e4",
-                "key": ""
+                "key": "flare"
             },
             {
                 "codepoint": "e3e5",
-                "key": ""
+                "key": "flash_auto"
             },
             {
                 "codepoint": "e3e6",
-                "key": ""
+                "key": "flash_off"
             },
             {
                 "codepoint": "e3e7",
-                "key": ""
+                "key": "flash_on"
             },
             {
                 "codepoint": "e3e8",
-                "key": ""
+                "key": "flip"
             },
             {
                 "codepoint": "e3e9",
-                "key": ""
+                "key": "gradient"
             },
             {
                 "codepoint": "e3ea",
-                "key": ""
+                "key": "grain"
             },
             {
                 "codepoint": "e3eb",
-                "key": ""
+                "key": "grid_off"
             },
             {
                 "codepoint": "e3ec",
-                "key": ""
+                "key": "grid_on"
             },
             {
                 "codepoint": "e3ed",
-                "key": ""
+                "key": "hdr_off"
             },
             {
                 "codepoint": "e3ee",
-                "key": ""
+                "key": "hdr_on"
             },
             {
                 "codepoint": "e3f1",
-                "key": ""
+                "key": "hdr_strong"
             },
             {
                 "codepoint": "e3f2",
-                "key": ""
+                "key": "hdr_weak"
             },
             {
                 "codepoint": "e3f3",
-                "key": ""
+                "key": "healing"
             },
             {
                 "codepoint": "e3f4",
-                "key": ""
+                "key": "image"
             },
             {
                 "codepoint": "e3f5",
-                "key": ""
+                "key": "image_aspect_ratio"
             },
             {
                 "codepoint": "e3f6",
-                "key": ""
+                "key": "iso"
             },
             {
                 "codepoint": "e3f7",
-                "key": ""
+                "key": "landscape"
             },
             {
                 "codepoint": "e3f8",
-                "key": ""
+                "key": "leak_add"
             },
             {
                 "codepoint": "e3f9",
-                "key": ""
+                "key": "leak_remove"
             },
             {
                 "codepoint": "e3fa",
-                "key": ""
+                "key": "lens"
             },
             {
                 "codepoint": "e3fb",
-                "key": ""
+                "key": "looks_3"
             },
             {
                 "codepoint": "e3fc",
-                "key": ""
+                "key": "looks"
             },
             {
                 "codepoint": "e3fd",
-                "key": ""
+                "key": "looks_4"
             },
             {
                 "codepoint": "e3fe",
-                "key": ""
+                "key": "looks_5"
             },
             {
                 "codepoint": "e3ff",
-                "key": ""
+                "key": "looks_6"
             },
             {
                 "codepoint": "e400",
-                "key": ""
+                "key": "looks_one"
             },
             {
                 "codepoint": "e401",
-                "key": ""
+                "key": "looks_two"
             },
             {
                 "codepoint": "e402",
-                "key": ""
+                "key": "loupe"
             },
             {
                 "codepoint": "e403",
-                "key": ""
+                "key": "monochrome_photos"
             },
             {
                 "codepoint": "e404",
-                "key": ""
+                "key": "movie_creation"
             },
             {
                 "codepoint": "e405",
-                "key": ""
+                "key": "music_note"
             },
             {
                 "codepoint": "e406",
-                "key": ""
+                "key": "nature"
             },
             {
                 "codepoint": "e407",
-                "key": ""
+                "key": "nature_people"
             },
             {
                 "codepoint": "e408",
-                "key": ""
+                "key": "navigate_before"
             },
             {
                 "codepoint": "e409",
-                "key": ""
+                "key": "navigate_next"
             },
             {
                 "codepoint": "e40a",
-                "key": ""
+                "key": "palette"
             },
             {
                 "codepoint": "e40b",
-                "key": ""
+                "key": "panorama"
             },
             {
                 "codepoint": "e40c",
-                "key": ""
+                "key": "panorama_fish_eye"
             },
             {
                 "codepoint": "e40d",
-                "key": ""
+                "key": "panorama_horizontal"
             },
             {
                 "codepoint": "e40e",
-                "key": ""
+                "key": "panorama_vertical"
             },
             {
                 "codepoint": "e40f",
-                "key": ""
+                "key": "panorama_wide_angle"
             },
             {
                 "codepoint": "e410",
-                "key": ""
+                "key": "photo"
             },
             {
                 "codepoint": "e411",
-                "key": ""
+                "key": "photo_album"
             },
             {
                 "codepoint": "e412",
-                "key": ""
+                "key": "photo_camera"
             },
             {
                 "codepoint": "e413",
-                "key": ""
+                "key": "photo_library"
             },
             {
                 "codepoint": "e415",
-                "key": ""
+                "key": "picture_as_pdf"
             },
             {
                 "codepoint": "e416",
-                "key": ""
+                "key": "portrait"
             },
             {
                 "codepoint": "e417",
-                "key": ""
+                "key": "remove_red_eye"
             },
             {
                 "codepoint": "e418",
-                "key": ""
+                "key": "rotate_90_degrees_ccw"
             },
             {
                 "codepoint": "e419",
-                "key": ""
+                "key": "rotate_left"
             },
             {
                 "codepoint": "e41a",
-                "key": ""
+                "key": "rotate_right"
             },
             {
                 "codepoint": "e41b",
-                "key": ""
+                "key": "slideshow"
             },
             {
                 "codepoint": "e41c",
-                "key": ""
+                "key": "straighten"
             },
             {
                 "codepoint": "e41d",
-                "key": ""
+                "key": "style"
             },
             {
                 "codepoint": "e41e",
-                "key": ""
+                "key": "switch_camera"
             },
             {
                 "codepoint": "e41f",
-                "key": ""
+                "key": "switch_video"
             },
             {
                 "codepoint": "e420",
-                "key": ""
+                "key": "tag_faces"
             },
             {
                 "codepoint": "e421",
-                "key": ""
+                "key": "texture"
             },
             {
                 "codepoint": "e422",
-                "key": ""
+                "key": "timelapse"
             },
             {
                 "codepoint": "e423",
-                "key": ""
+                "key": "timer_10"
             },
             {
                 "codepoint": "e424",
-                "key": ""
+                "key": "timer_3"
             },
             {
                 "codepoint": "e425",
-                "key": ""
+                "key": "timer"
             },
             {
                 "codepoint": "e426",
-                "key": ""
+                "key": "timer_off"
             },
             {
                 "codepoint": "e427",
-                "key": ""
+                "key": "tonality"
             },
             {
                 "codepoint": "e428",
-                "key": ""
+                "key": "transform"
             },
             {
                 "codepoint": "e429",
-                "key": ""
+                "key": "tune"
             },
             {
                 "codepoint": "e42a",
-                "key": ""
+                "key": "view_comfy"
             },
             {
                 "codepoint": "e42b",
-                "key": ""
+                "key": "view_compact"
             },
             {
                 "codepoint": "e42c",
-                "key": ""
+                "key": "wb_auto"
             },
             {
                 "codepoint": "e42d",
-                "key": ""
+                "key": "wb_cloudy"
             },
             {
                 "codepoint": "e42e",
-                "key": ""
+                "key": "wb_incandescent"
             },
             {
                 "codepoint": "e430",
-                "key": ""
+                "key": "wb_sunny"
             },
             {
                 "codepoint": "e431",
-                "key": ""
+                "key": "collections_bookmark"
             },
             {
                 "codepoint": "e432",
-                "key": ""
+                "key": "photo_size_select_actual"
             },
             {
                 "codepoint": "e433",
-                "key": ""
+                "key": "photo_size_select_large"
             },
             {
                 "codepoint": "e434",
-                "key": ""
+                "key": "photo_size_select_small"
             },
             {
                 "codepoint": "e435",
-                "key": ""
+                "key": "vignette"
             },
             {
                 "codepoint": "e436",
-                "key": ""
+                "key": "wb_iridescent"
             },
             {
                 "codepoint": "e437",
-                "key": ""
+                "key": "crop_rotate"
             },
             {
                 "codepoint": "e438",
-                "key": ""
+                "key": "linked_camera"
             },
             {
                 "codepoint": "e439",
-                "key": ""
+                "key": "add_a_photo"
             },
             {
                 "codepoint": "e43a",
-                "key": ""
+                "key": "movie_filter"
             },
             {
                 "codepoint": "e43b",
-                "key": ""
+                "key": "photo_filter"
             },
             {
                 "codepoint": "e43c",
-                "key": ""
+                "key": "burst_mode"
             },
             {
                 "codepoint": "e43d",
@@ -2217,275 +2217,275 @@ export default Route.extend({
             },
             {
                 "codepoint": "e52d",
-                "key": ""
+                "key": "beenhere"
             },
             {
                 "codepoint": "e52e",
-                "key": ""
+                "key": "directions"
             },
             {
                 "codepoint": "e52f",
-                "key": ""
+                "key": "directions_bike"
             },
             {
                 "codepoint": "e530",
-                "key": ""
+                "key": "directions_bus"
             },
             {
                 "codepoint": "e531",
-                "key": ""
+                "key": "directions_car"
             },
             {
                 "codepoint": "e532",
-                "key": ""
+                "key": "directions_boat"
             },
             {
                 "codepoint": "e533",
-                "key": ""
+                "key": "directions_subway"
             },
             {
                 "codepoint": "e534",
-                "key": ""
+                "key": "directions_railway"
             },
             {
                 "codepoint": "e535",
-                "key": ""
+                "key": "directions_transit"
             },
             {
                 "codepoint": "e536",
-                "key": ""
+                "key": "directions_walk"
             },
             {
                 "codepoint": "e539",
-                "key": ""
+                "key": "flight"
             },
             {
                 "codepoint": "e53a",
-                "key": ""
+                "key": "hotel"
             },
             {
                 "codepoint": "e53b",
-                "key": ""
+                "key": "layers"
             },
             {
                 "codepoint": "e53c",
-                "key": ""
+                "key": "layers_clear"
             },
             {
                 "codepoint": "e53d",
-                "key": ""
+                "key": "local_airport"
             },
             {
                 "codepoint": "e53e",
-                "key": ""
+                "key": "local_atm"
             },
             {
                 "codepoint": "e53f",
-                "key": ""
+                "key": "local_activity"
             },
             {
                 "codepoint": "e540",
-                "key": ""
+                "key": "local_bar"
             },
             {
                 "codepoint": "e541",
-                "key": ""
+                "key": "local_cafe"
             },
             {
                 "codepoint": "e542",
-                "key": ""
+                "key": "local_car_wash"
             },
             {
                 "codepoint": "e543",
-                "key": ""
+                "key": "local_convenience_store"
             },
             {
                 "codepoint": "e544",
-                "key": ""
+                "key": "local_drink"
             },
             {
                 "codepoint": "e545",
-                "key": ""
+                "key": "local_florist"
             },
             {
                 "codepoint": "e546",
-                "key": ""
+                "key": "local_gas_station"
             },
             {
                 "codepoint": "e547",
-                "key": ""
+                "key": "local_grocery_store"
             },
             {
                 "codepoint": "e548",
-                "key": ""
+                "key": "local_hospital"
             },
             {
                 "codepoint": "e549",
-                "key": ""
+                "key": "local_hotel"
             },
             {
                 "codepoint": "e54a",
-                "key": ""
+                "key": "local_laundry_service"
             },
             {
                 "codepoint": "e54b",
-                "key": ""
+                "key": "local_library"
             },
             {
                 "codepoint": "e54c",
-                "key": ""
+                "key": "local_mall"
             },
             {
                 "codepoint": "e54d",
-                "key": ""
+                "key": "local_movies"
             },
             {
                 "codepoint": "e54e",
-                "key": ""
+                "key": "local_offer"
             },
             {
                 "codepoint": "e54f",
-                "key": ""
+                "key": "local_parking"
             },
             {
                 "codepoint": "e550",
-                "key": ""
+                "key": "local_pharmacy"
             },
             {
                 "codepoint": "e551",
-                "key": ""
+                "key": "local_phone"
             },
             {
                 "codepoint": "e552",
-                "key": ""
+                "key": "local_pizza"
             },
             {
                 "codepoint": "e553",
-                "key": ""
+                "key": "local_play"
             },
             {
                 "codepoint": "e554",
-                "key": ""
+                "key": "local_post_office"
             },
             {
                 "codepoint": "e555",
-                "key": ""
+                "key": "local_printshop"
             },
             {
                 "codepoint": "e556",
-                "key": ""
+                "key": "local_dining"
             },
             {
                 "codepoint": "e557",
-                "key": ""
+                "key": "local_see"
             },
             {
                 "codepoint": "e558",
-                "key": ""
+                "key": "local_shipping"
             },
             {
                 "codepoint": "e559",
-                "key": ""
+                "key": "local_taxi"
             },
             {
                 "codepoint": "e55a",
-                "key": ""
+                "key": "person_pin"
             },
             {
                 "codepoint": "e55b",
-                "key": ""
+                "key": "map"
             },
             {
                 "codepoint": "e55c",
-                "key": ""
+                "key": "my_location"
             },
             {
                 "codepoint": "e55d",
-                "key": ""
+                "key": "navigation"
             },
             {
                 "codepoint": "e55e",
-                "key": ""
+                "key": "pin_drop"
             },
             {
                 "codepoint": "e55f",
-                "key": ""
+                "key": "place"
             },
             {
                 "codepoint": "e560",
-                "key": ""
+                "key": "rate_review"
             },
             {
                 "codepoint": "e561",
-                "key": ""
+                "key": "restaurant_menu"
             },
             {
                 "codepoint": "e562",
-                "key": ""
+                "key": "satellite"
             },
             {
                 "codepoint": "e563",
-                "key": ""
+                "key": "store_mall_directory"
             },
             {
                 "codepoint": "e564",
-                "key": ""
+                "key": "terrain"
             },
             {
                 "codepoint": "e565",
-                "key": ""
+                "key": "traffic"
             },
             {
                 "codepoint": "e566",
-                "key": ""
+                "key": "directions_run"
             },
             {
                 "codepoint": "e567",
-                "key": ""
+                "key": "add_location"
             },
             {
                 "codepoint": "e568",
-                "key": ""
+                "key": "edit_location"
             },
             {
                 "codepoint": "e569",
-                "key": ""
+                "key": "near_me"
             },
             {
                 "codepoint": "e56a",
-                "key": ""
+                "key": "person_pin_circle"
             },
             {
                 "codepoint": "e56b",
-                "key": ""
+                "key": "zoom_out_map"
             },
             {
                 "codepoint": "e56c",
-                "key": ""
+                "key": "restaurant"
             },
             {
                 "codepoint": "e56d",
-                "key": ""
+                "key": "ev_station"
             },
             {
                 "codepoint": "e56e",
-                "key": ""
+                "key": "streetview"
             },
             {
                 "codepoint": "e56f",
-                "key": ""
+                "key": "subway"
             },
             {
                 "codepoint": "e570",
-                "key": ""
+                "key": "train"
             },
             {
                 "codepoint": "e571",
-                "key": ""
+                "key": "tram"
             },
             {
                 "codepoint": "e572",
-                "key": ""
+                "key": "transfer_within_a_station"
             },
             {
                 "codepoint": "e573",
@@ -2533,111 +2533,111 @@ export default Route.extend({
             },
             {
                 "codepoint": "e5c3",
-                "key": ""
+                "key": "apps"
             },
             {
                 "codepoint": "e5c4",
-                "key": ""
+                "key": "arrow_back"
             },
             {
                 "codepoint": "e5c5",
-                "key": ""
+                "key": "arrow_drop_down"
             },
             {
                 "codepoint": "e5c6",
-                "key": ""
+                "key": "arrow_drop_down_circle"
             },
             {
                 "codepoint": "e5c7",
-                "key": ""
+                "key": "arrow_drop_up"
             },
             {
                 "codepoint": "e5c8",
-                "key": ""
+                "key": "arrow_forward"
             },
             {
                 "codepoint": "e5c9",
-                "key": ""
+                "key": "cancel"
             },
             {
                 "codepoint": "e5ca",
-                "key": ""
+                "key": "check"
             },
             {
                 "codepoint": "e5cb",
-                "key": ""
+                "key": "chevron_left"
             },
             {
                 "codepoint": "e5cc",
-                "key": ""
+                "key": "chevron_right"
             },
             {
                 "codepoint": "e5cd",
-                "key": ""
+                "key": "close"
             },
             {
                 "codepoint": "e5ce",
-                "key": ""
+                "key": "expand_less"
             },
             {
                 "codepoint": "e5cf",
-                "key": ""
+                "key": "expand_more"
             },
             {
                 "codepoint": "e5d0",
-                "key": ""
+                "key": "fullscreen"
             },
             {
                 "codepoint": "e5d1",
-                "key": ""
+                "key": "fullscreen_exit"
             },
             {
                 "codepoint": "e5d2",
-                "key": ""
+                "key": "menu"
             },
             {
                 "codepoint": "e5d3",
-                "key": ""
+                "key": "more_horiz"
             },
             {
                 "codepoint": "e5d4",
-                "key": ""
+                "key": "more_vert"
             },
             {
                 "codepoint": "e5d5",
-                "key": ""
+                "key": "refresh"
             },
             {
                 "codepoint": "e5d6",
-                "key": ""
+                "key": "unfold_less"
             },
             {
                 "codepoint": "e5d7",
-                "key": ""
+                "key": "unfold_more"
             },
             {
                 "codepoint": "e5d8",
-                "key": ""
+                "key": "arrow_upward"
             },
             {
                 "codepoint": "e5d9",
-                "key": ""
+                "key": "subdirectory_arrow_left"
             },
             {
                 "codepoint": "e5da",
-                "key": ""
+                "key": "subdirectory_arrow_right"
             },
             {
                 "codepoint": "e5db",
-                "key": ""
+                "key": "arrow_downward"
             },
             {
                 "codepoint": "e5dc",
-                "key": ""
+                "key": "first_page"
             },
             {
                 "codepoint": "e5dd",
-                "key": ""
+                "key": "last_page"
             },
             {
                 "codepoint": "e5de",
@@ -2657,219 +2657,219 @@ export default Route.extend({
             },
             {
                 "codepoint": "e60e",
-                "key": ""
+                "key": "adb"
             },
             {
                 "codepoint": "e60f",
-                "key": ""
+                "key": "bluetooth_audio"
             },
             {
                 "codepoint": "e610",
-                "key": ""
+                "key": "disc_full"
             },
             {
                 "codepoint": "e611",
-                "key": ""
+                "key": "do_not_disturb_alt"
             },
             {
                 "codepoint": "e612",
-                "key": ""
+                "key": "do_not_disturb"
             },
             {
                 "codepoint": "e613",
-                "key": ""
+                "key": "drive_eta"
             },
             {
                 "codepoint": "e614",
-                "key": ""
+                "key": "event_available"
             },
             {
                 "codepoint": "e615",
-                "key": ""
+                "key": "event_busy"
             },
             {
                 "codepoint": "e616",
-                "key": ""
+                "key": "event_note"
             },
             {
                 "codepoint": "e617",
-                "key": ""
+                "key": "folder_special"
             },
             {
                 "codepoint": "e618",
-                "key": ""
+                "key": "mms"
             },
             {
                 "codepoint": "e619",
-                "key": ""
+                "key": "more"
             },
             {
                 "codepoint": "e61a",
-                "key": ""
+                "key": "network_locked"
             },
             {
                 "codepoint": "e61b",
-                "key": ""
+                "key": "phone_bluetooth_speaker"
             },
             {
                 "codepoint": "e61c",
-                "key": ""
+                "key": "phone_forwarded"
             },
             {
                 "codepoint": "e61d",
-                "key": ""
+                "key": "phone_in_talk"
             },
             {
                 "codepoint": "e61e",
-                "key": ""
+                "key": "phone_locked"
             },
             {
                 "codepoint": "e61f",
-                "key": ""
+                "key": "phone_missed"
             },
             {
                 "codepoint": "e620",
-                "key": ""
+                "key": "phone_paused"
             },
             {
                 "codepoint": "e623",
-                "key": ""
+                "key": "sd_card"
             },
             {
                 "codepoint": "e624",
-                "key": ""
+                "key": "sim_card_alert"
             },
             {
                 "codepoint": "e625",
-                "key": ""
+                "key": "sms"
             },
             {
                 "codepoint": "e626",
-                "key": ""
+                "key": "sms_failed"
             },
             {
                 "codepoint": "e627",
-                "key": ""
+                "key": "sync"
             },
             {
                 "codepoint": "e628",
-                "key": ""
+                "key": "sync_disabled"
             },
             {
                 "codepoint": "e629",
-                "key": ""
+                "key": "sync_problem"
             },
             {
                 "codepoint": "e62a",
-                "key": ""
+                "key": "system_update"
             },
             {
                 "codepoint": "e62b",
-                "key": ""
+                "key": "tap_and_play"
             },
             {
                 "codepoint": "e62c",
-                "key": ""
+                "key": "time_to_leave"
             },
             {
                 "codepoint": "e62d",
-                "key": ""
+                "key": "vibration"
             },
             {
                 "codepoint": "e62e",
-                "key": ""
+                "key": "voice_chat"
             },
             {
                 "codepoint": "e62f",
-                "key": ""
+                "key": "vpn_lock"
             },
             {
                 "codepoint": "e630",
-                "key": ""
+                "key": "airline_seat_flat"
             },
             {
                 "codepoint": "e631",
-                "key": ""
+                "key": "airline_seat_flat_angled"
             },
             {
                 "codepoint": "e632",
-                "key": ""
+                "key": "airline_seat_individual_suite"
             },
             {
                 "codepoint": "e633",
-                "key": ""
+                "key": "airline_seat_legroom_extra"
             },
             {
                 "codepoint": "e634",
-                "key": ""
+                "key": "airline_seat_legroom_normal"
             },
             {
                 "codepoint": "e635",
-                "key": ""
+                "key": "airline_seat_legroom_reduced"
             },
             {
                 "codepoint": "e636",
-                "key": ""
+                "key": "airline_seat_recline_extra"
             },
             {
                 "codepoint": "e637",
-                "key": ""
+                "key": "airline_seat_recline_normal"
             },
             {
                 "codepoint": "e638",
-                "key": ""
+                "key": "confirmation_number"
             },
             {
                 "codepoint": "e639",
-                "key": ""
+                "key": "live_tv"
             },
             {
                 "codepoint": "e63a",
-                "key": ""
+                "key": "ondemand_video"
             },
             {
                 "codepoint": "e63b",
-                "key": ""
+                "key": "personal_video"
             },
             {
                 "codepoint": "e63c",
-                "key": ""
+                "key": "power"
             },
             {
                 "codepoint": "e63d",
-                "key": ""
+                "key": "wc"
             },
             {
                 "codepoint": "e63e",
-                "key": ""
+                "key": "wifi"
             },
             {
                 "codepoint": "e63f",
-                "key": ""
+                "key": "enhanced_encryption"
             },
             {
                 "codepoint": "e640",
-                "key": ""
+                "key": "network_check"
             },
             {
                 "codepoint": "e641",
-                "key": ""
+                "key": "no_encryption"
             },
             {
                 "codepoint": "e642",
-                "key": ""
+                "key": "rv_hookup"
             },
             {
                 "codepoint": "e643",
-                "key": ""
+                "key": "do_not_disturb_off"
             },
             {
                 "codepoint": "e644",
-                "key": ""
+                "key": "do_not_disturb_on"
             },
             {
                 "codepoint": "e645",
-                "key": ""
+                "key": "priority_high"
             },
             {
                 "codepoint": "e646",
@@ -2889,143 +2889,143 @@ export default Route.extend({
             },
             {
                 "codepoint": "e6c4",
-                "key": ""
+                "key": "pie_chart"
             },
             {
                 "codepoint": "e6c5",
-                "key": ""
+                "key": "pie_chart_outlined"
             },
             {
                 "codepoint": "e6dd",
-                "key": ""
+                "key": "bubble_chart"
             },
             {
                 "codepoint": "e6df",
-                "key": ""
+                "key": "multiline_chart"
             },
             {
                 "codepoint": "e6e1",
-                "key": ""
+                "key": "show_chart"
             },
             {
                 "codepoint": "e7e9",
-                "key": ""
+                "key": "cake"
             },
             {
                 "codepoint": "e7ee",
-                "key": ""
+                "key": "domain"
             },
             {
                 "codepoint": "e7ef",
-                "key": ""
+                "key": "group"
             },
             {
                 "codepoint": "e7f0",
-                "key": ""
+                "key": "group_add"
             },
             {
                 "codepoint": "e7f1",
-                "key": ""
+                "key": "location_city"
             },
             {
                 "codepoint": "e7f2",
-                "key": ""
+                "key": "mood"
             },
             {
                 "codepoint": "e7f3",
-                "key": ""
+                "key": "mood_bad"
             },
             {
                 "codepoint": "e7f4",
-                "key": ""
+                "key": "notifications"
             },
             {
                 "codepoint": "e7f5",
-                "key": ""
+                "key": "notifications_none"
             },
             {
                 "codepoint": "e7f6",
-                "key": ""
+                "key": "notifications_off"
             },
             {
                 "codepoint": "e7f7",
-                "key": ""
+                "key": "notifications_active"
             },
             {
                 "codepoint": "e7f8",
-                "key": ""
+                "key": "notifications_paused"
             },
             {
                 "codepoint": "e7f9",
-                "key": ""
+                "key": "pages"
             },
             {
                 "codepoint": "e7fa",
-                "key": ""
+                "key": "party_mode"
             },
             {
                 "codepoint": "e7fb",
-                "key": ""
+                "key": "people"
             },
             {
                 "codepoint": "e7fc",
-                "key": ""
+                "key": "people_outline"
             },
             {
                 "codepoint": "e7fd",
-                "key": ""
+                "key": "person"
             },
             {
                 "codepoint": "e7fe",
-                "key": ""
+                "key": "person_add"
             },
             {
                 "codepoint": "e7ff",
-                "key": ""
+                "key": "person_outline"
             },
             {
                 "codepoint": "e800",
-                "key": ""
+                "key": "plus_one"
             },
             {
                 "codepoint": "e801",
-                "key": ""
+                "key": "poll"
             },
             {
                 "codepoint": "e80b",
-                "key": ""
+                "key": "public"
             },
             {
                 "codepoint": "e80c",
-                "key": ""
+                "key": "school"
             },
             {
                 "codepoint": "e80d",
-                "key": ""
+                "key": "share"
             },
             {
                 "codepoint": "e80e",
-                "key": ""
+                "key": "whatshot"
             },
             {
                 "codepoint": "e811",
-                "key": ""
+                "key": "sentiment_dissatisfied"
             },
             {
                 "codepoint": "e812",
-                "key": ""
+                "key": "sentiment_neutral"
             },
             {
                 "codepoint": "e813",
-                "key": ""
+                "key": "sentiment_satisfied"
             },
             {
                 "codepoint": "e814",
-                "key": ""
+                "key": "sentiment_very_dissatisfied"
             },
             {
                 "codepoint": "e815",
-                "key": ""
+                "key": "sentiment_very_satisfied"
             },
             {
                 "codepoint": "e816",
@@ -3037,895 +3037,895 @@ export default Route.extend({
             },
             {
                 "codepoint": "e834",
-                "key": ""
+                "key": "check_box"
             },
             {
                 "codepoint": "e835",
-                "key": ""
+                "key": "check_box_outline_blank"
             },
             {
                 "codepoint": "e836",
-                "key": ""
+                "key": "radio_button_unchecked"
             },
             {
                 "codepoint": "e837",
-                "key": ""
+                "key": "radio_button_checked"
             },
             {
                 "codepoint": "e838",
-                "key": ""
+                "key": "star"
             },
             {
                 "codepoint": "e839",
-                "key": ""
+                "key": "star_half"
             },
             {
                 "codepoint": "e83a",
-                "key": ""
+                "key": "star_border"
             },
             {
                 "codepoint": "e84d",
-                "key": ""
+                "key": "3d_rotation"
             },
             {
                 "codepoint": "e84e",
-                "key": ""
+                "key": "accessibility"
             },
             {
                 "codepoint": "e84f",
-                "key": ""
+                "key": "account_balance"
             },
             {
                 "codepoint": "e850",
-                "key": ""
+                "key": "account_balance_wallet"
             },
             {
                 "codepoint": "e851",
-                "key": ""
+                "key": "account_box"
             },
             {
                 "codepoint": "e853",
-                "key": ""
+                "key": "account_circle"
             },
             {
                 "codepoint": "e854",
-                "key": ""
+                "key": "add_shopping_cart"
             },
             {
                 "codepoint": "e855",
-                "key": ""
+                "key": "alarm"
             },
             {
                 "codepoint": "e856",
-                "key": ""
+                "key": "alarm_add"
             },
             {
                 "codepoint": "e857",
-                "key": ""
+                "key": "alarm_off"
             },
             {
                 "codepoint": "e858",
-                "key": ""
+                "key": "alarm_on"
             },
             {
                 "codepoint": "e859",
-                "key": ""
+                "key": "android"
             },
             {
                 "codepoint": "e85a",
-                "key": ""
+                "key": "announcement"
             },
             {
                 "codepoint": "e85b",
-                "key": ""
+                "key": "aspect_ratio"
             },
             {
                 "codepoint": "e85c",
-                "key": ""
+                "key": "assessment"
             },
             {
                 "codepoint": "e85d",
-                "key": ""
+                "key": "assignment"
             },
             {
                 "codepoint": "e85e",
-                "key": ""
+                "key": "assignment_ind"
             },
             {
                 "codepoint": "e85f",
-                "key": ""
+                "key": "assignment_late"
             },
             {
                 "codepoint": "e860",
-                "key": ""
+                "key": "assignment_return"
             },
             {
                 "codepoint": "e861",
-                "key": ""
+                "key": "assignment_returned"
             },
             {
                 "codepoint": "e862",
-                "key": ""
+                "key": "assignment_turned_in"
             },
             {
                 "codepoint": "e863",
-                "key": ""
+                "key": "autorenew"
             },
             {
                 "codepoint": "e864",
-                "key": ""
+                "key": "backup"
             },
             {
                 "codepoint": "e865",
-                "key": ""
+                "key": "book"
             },
             {
                 "codepoint": "e866",
-                "key": ""
+                "key": "bookmark"
             },
             {
                 "codepoint": "e867",
-                "key": ""
+                "key": "bookmark_border"
             },
             {
                 "codepoint": "e868",
-                "key": ""
+                "key": "bug_report"
             },
             {
                 "codepoint": "e869",
-                "key": ""
+                "key": "build"
             },
             {
                 "codepoint": "e86a",
-                "key": ""
+                "key": "cached"
             },
             {
                 "codepoint": "e86b",
-                "key": ""
+                "key": "change_history"
             },
             {
                 "codepoint": "e86c",
-                "key": ""
+                "key": "check_circle"
             },
             {
                 "codepoint": "e86d",
-                "key": ""
+                "key": "chrome_reader_mode"
             },
             {
                 "codepoint": "e86e",
-                "key": ""
+                "key": "class"
             },
             {
                 "codepoint": "e86f",
-                "key": ""
+                "key": "code"
             },
             {
                 "codepoint": "e870",
-                "key": ""
+                "key": "credit_card"
             },
             {
                 "codepoint": "e871",
-                "key": ""
+                "key": "dashboard"
             },
             {
                 "codepoint": "e872",
-                "key": ""
+                "key": "delete"
             },
             {
                 "codepoint": "e873",
-                "key": ""
+                "key": "description"
             },
             {
                 "codepoint": "e875",
-                "key": ""
+                "key": "dns"
             },
             {
                 "codepoint": "e876",
-                "key": ""
+                "key": "done"
             },
             {
                 "codepoint": "e877",
-                "key": ""
+                "key": "done_all"
             },
             {
                 "codepoint": "e878",
-                "key": ""
+                "key": "event"
             },
             {
                 "codepoint": "e879",
-                "key": ""
+                "key": "exit_to_app"
             },
             {
                 "codepoint": "e87a",
-                "key": ""
+                "key": "explore"
             },
             {
                 "codepoint": "e87b",
-                "key": ""
+                "key": "extension"
             },
             {
                 "codepoint": "e87c",
-                "key": ""
+                "key": "face"
             },
             {
                 "codepoint": "e87d",
-                "key": ""
+                "key": "favorite"
             },
             {
                 "codepoint": "e87e",
-                "key": ""
+                "key": "favorite_border"
             },
             {
                 "codepoint": "e87f",
-                "key": ""
+                "key": "feedback"
             },
             {
                 "codepoint": "e880",
-                "key": ""
+                "key": "find_in_page"
             },
             {
                 "codepoint": "e881",
-                "key": ""
+                "key": "find_replace"
             },
             {
                 "codepoint": "e882",
-                "key": ""
+                "key": "flip_to_back"
             },
             {
                 "codepoint": "e883",
-                "key": ""
+                "key": "flip_to_front"
             },
             {
                 "codepoint": "e884",
-                "key": ""
+                "key": "get_app"
             },
             {
                 "codepoint": "e885",
-                "key": ""
+                "key": "grade"
             },
             {
                 "codepoint": "e886",
-                "key": ""
+                "key": "group_work"
             },
             {
                 "codepoint": "e887",
-                "key": ""
+                "key": "help"
             },
             {
                 "codepoint": "e888",
-                "key": ""
+                "key": "highlight_off"
             },
             {
                 "codepoint": "e889",
-                "key": ""
+                "key": "history"
             },
             {
                 "codepoint": "e88a",
-                "key": ""
+                "key": "home"
             },
             {
                 "codepoint": "e88b",
-                "key": ""
+                "key": "hourglass_empty"
             },
             {
                 "codepoint": "e88c",
-                "key": ""
+                "key": "hourglass_full"
             },
             {
                 "codepoint": "e88d",
-                "key": ""
+                "key": "https"
             },
             {
                 "codepoint": "e88e",
-                "key": ""
+                "key": "info"
             },
             {
                 "codepoint": "e88f",
-                "key": ""
+                "key": "info_outline"
             },
             {
                 "codepoint": "e890",
-                "key": ""
+                "key": "input"
             },
             {
                 "codepoint": "e891",
-                "key": ""
+                "key": "invert_colors"
             },
             {
                 "codepoint": "e892",
-                "key": ""
+                "key": "label"
             },
             {
                 "codepoint": "e893",
-                "key": ""
+                "key": "label_outline"
             },
             {
                 "codepoint": "e894",
-                "key": ""
+                "key": "language"
             },
             {
                 "codepoint": "e895",
-                "key": ""
+                "key": "launch"
             },
             {
                 "codepoint": "e896",
-                "key": ""
+                "key": "list"
             },
             {
                 "codepoint": "e897",
-                "key": ""
+                "key": "lock"
             },
             {
                 "codepoint": "e898",
-                "key": ""
+                "key": "lock_open"
             },
             {
                 "codepoint": "e899",
-                "key": ""
+                "key": "lock_outline"
             },
             {
                 "codepoint": "e89a",
-                "key": ""
+                "key": "loyalty"
             },
             {
                 "codepoint": "e89b",
-                "key": ""
+                "key": "markunread_mailbox"
             },
             {
                 "codepoint": "e89c",
-                "key": ""
+                "key": "note_add"
             },
             {
                 "codepoint": "e89d",
-                "key": ""
+                "key": "open_in_browser"
             },
             {
                 "codepoint": "e89e",
-                "key": ""
+                "key": "open_in_new"
             },
             {
                 "codepoint": "e89f",
-                "key": ""
+                "key": "open_with"
             },
             {
                 "codepoint": "e8a0",
-                "key": ""
+                "key": "pageview"
             },
             {
                 "codepoint": "e8a1",
-                "key": ""
+                "key": "payment"
             },
             {
                 "codepoint": "e8a2",
-                "key": ""
+                "key": "perm_camera_mic"
             },
             {
                 "codepoint": "e8a3",
-                "key": ""
+                "key": "perm_contact_calendar"
             },
             {
                 "codepoint": "e8a4",
-                "key": ""
+                "key": "perm_data_setting"
             },
             {
                 "codepoint": "e8a5",
-                "key": ""
+                "key": "perm_device_information"
             },
             {
                 "codepoint": "e8a6",
-                "key": ""
+                "key": "perm_identity"
             },
             {
                 "codepoint": "e8a7",
-                "key": ""
+                "key": "perm_media"
             },
             {
                 "codepoint": "e8a8",
-                "key": ""
+                "key": "perm_phone_msg"
             },
             {
                 "codepoint": "e8a9",
-                "key": ""
+                "key": "perm_scan_wifi"
             },
             {
                 "codepoint": "e8aa",
-                "key": ""
+                "key": "picture_in_picture"
             },
             {
                 "codepoint": "e8ab",
-                "key": ""
+                "key": "polymer"
             },
             {
                 "codepoint": "e8ac",
-                "key": ""
+                "key": "power_settings_new"
             },
             {
                 "codepoint": "e8ad",
-                "key": ""
+                "key": "print"
             },
             {
                 "codepoint": "e8ae",
-                "key": ""
+                "key": "query_builder"
             },
             {
                 "codepoint": "e8af",
-                "key": ""
+                "key": "question_answer"
             },
             {
                 "codepoint": "e8b0",
-                "key": ""
+                "key": "receipt"
             },
             {
                 "codepoint": "e8b1",
-                "key": ""
+                "key": "redeem"
             },
             {
                 "codepoint": "e8b2",
-                "key": ""
+                "key": "report_problem"
             },
             {
                 "codepoint": "e8b3",
-                "key": ""
+                "key": "restore"
             },
             {
                 "codepoint": "e8b4",
-                "key": ""
+                "key": "room"
             },
             {
                 "codepoint": "e8b5",
-                "key": ""
+                "key": "schedule"
             },
             {
                 "codepoint": "e8b6",
-                "key": ""
+                "key": "search"
             },
             {
                 "codepoint": "e8b8",
-                "key": ""
+                "key": "settings"
             },
             {
                 "codepoint": "e8b9",
-                "key": ""
+                "key": "settings_applications"
             },
             {
                 "codepoint": "e8ba",
-                "key": ""
+                "key": "settings_backup_restore"
             },
             {
                 "codepoint": "e8bb",
-                "key": ""
+                "key": "settings_bluetooth"
             },
             {
                 "codepoint": "e8bc",
-                "key": ""
+                "key": "settings_cell"
             },
             {
                 "codepoint": "e8bd",
-                "key": ""
+                "key": "settings_brightness"
             },
             {
                 "codepoint": "e8be",
-                "key": ""
+                "key": "settings_ethernet"
             },
             {
                 "codepoint": "e8bf",
-                "key": ""
+                "key": "settings_input_antenna"
             },
             {
                 "codepoint": "e8c0",
-                "key": ""
+                "key": "settings_input_component"
             },
             {
                 "codepoint": "e8c1",
-                "key": ""
+                "key": "settings_input_composite"
             },
             {
                 "codepoint": "e8c2",
-                "key": ""
+                "key": "settings_input_hdmi"
             },
             {
                 "codepoint": "e8c3",
-                "key": ""
+                "key": "settings_input_svideo"
             },
             {
                 "codepoint": "e8c4",
-                "key": ""
+                "key": "settings_overscan"
             },
             {
                 "codepoint": "e8c5",
-                "key": ""
+                "key": "settings_phone"
             },
             {
                 "codepoint": "e8c6",
-                "key": ""
+                "key": "settings_power"
             },
             {
                 "codepoint": "e8c7",
-                "key": ""
+                "key": "settings_remote"
             },
             {
                 "codepoint": "e8c8",
-                "key": ""
+                "key": "settings_voice"
             },
             {
                 "codepoint": "e8c9",
-                "key": ""
+                "key": "shop"
             },
             {
                 "codepoint": "e8ca",
-                "key": ""
+                "key": "shop_two"
             },
             {
                 "codepoint": "e8cb",
-                "key": ""
+                "key": "shopping_basket"
             },
             {
                 "codepoint": "e8cc",
-                "key": ""
+                "key": "shopping_cart"
             },
             {
                 "codepoint": "e8cd",
-                "key": ""
+                "key": "speaker_notes"
             },
             {
                 "codepoint": "e8ce",
-                "key": ""
+                "key": "spellcheck"
             },
             {
                 "codepoint": "e8d0",
-                "key": ""
+                "key": "stars"
             },
             {
                 "codepoint": "e8d1",
-                "key": ""
+                "key": "store"
             },
             {
                 "codepoint": "e8d2",
-                "key": ""
+                "key": "subject"
             },
             {
                 "codepoint": "e8d3",
-                "key": ""
+                "key": "supervisor_account"
             },
             {
                 "codepoint": "e8d4",
-                "key": ""
+                "key": "swap_horiz"
             },
             {
                 "codepoint": "e8d5",
-                "key": ""
+                "key": "swap_vert"
             },
             {
                 "codepoint": "e8d6",
-                "key": ""
+                "key": "swap_vertical_circle"
             },
             {
                 "codepoint": "e8d7",
-                "key": ""
+                "key": "system_update_alt"
             },
             {
                 "codepoint": "e8d8",
-                "key": ""
+                "key": "tab"
             },
             {
                 "codepoint": "e8d9",
-                "key": ""
+                "key": "tab_unselected"
             },
             {
                 "codepoint": "e8da",
-                "key": ""
+                "key": "theaters"
             },
             {
                 "codepoint": "e8db",
-                "key": ""
+                "key": "thumb_down"
             },
             {
                 "codepoint": "e8dc",
-                "key": ""
+                "key": "thumb_up"
             },
             {
                 "codepoint": "e8dd",
-                "key": ""
+                "key": "thumbs_up_down"
             },
             {
                 "codepoint": "e8de",
-                "key": ""
+                "key": "toc"
             },
             {
                 "codepoint": "e8df",
-                "key": ""
+                "key": "today"
             },
             {
                 "codepoint": "e8e0",
-                "key": ""
+                "key": "toll"
             },
             {
                 "codepoint": "e8e1",
-                "key": ""
+                "key": "track_changes"
             },
             {
                 "codepoint": "e8e2",
-                "key": ""
+                "key": "translate"
             },
             {
                 "codepoint": "e8e3",
-                "key": ""
+                "key": "trending_down"
             },
             {
                 "codepoint": "e8e4",
-                "key": ""
+                "key": "trending_flat"
             },
             {
                 "codepoint": "e8e5",
-                "key": ""
+                "key": "trending_up"
             },
             {
                 "codepoint": "e8e6",
-                "key": ""
+                "key": "turned_in"
             },
             {
                 "codepoint": "e8e7",
-                "key": ""
+                "key": "turned_in_not"
             },
             {
                 "codepoint": "e8e8",
-                "key": ""
+                "key": "verified_user"
             },
             {
                 "codepoint": "e8e9",
-                "key": ""
+                "key": "view_agenda"
             },
             {
                 "codepoint": "e8ea",
-                "key": ""
+                "key": "view_array"
             },
             {
                 "codepoint": "e8eb",
-                "key": ""
+                "key": "view_carousel"
             },
             {
                 "codepoint": "e8ec",
-                "key": ""
+                "key": "view_column"
             },
             {
                 "codepoint": "e8ed",
-                "key": ""
+                "key": "view_day"
             },
             {
                 "codepoint": "e8ee",
-                "key": ""
+                "key": "view_headline"
             },
             {
                 "codepoint": "e8ef",
-                "key": ""
+                "key": "view_list"
             },
             {
                 "codepoint": "e8f0",
-                "key": ""
+                "key": "view_module"
             },
             {
                 "codepoint": "e8f1",
-                "key": ""
+                "key": "view_quilt"
             },
             {
                 "codepoint": "e8f2",
-                "key": ""
+                "key": "view_stream"
             },
             {
                 "codepoint": "e8f3",
-                "key": ""
+                "key": "view_week"
             },
             {
                 "codepoint": "e8f4",
-                "key": ""
+                "key": "visibility"
             },
             {
                 "codepoint": "e8f5",
-                "key": ""
+                "key": "visibility_off"
             },
             {
                 "codepoint": "e8f6",
-                "key": ""
+                "key": "card_giftcard"
             },
             {
                 "codepoint": "e8f7",
-                "key": ""
+                "key": "card_membership"
             },
             {
                 "codepoint": "e8f8",
-                "key": ""
+                "key": "card_travel"
             },
             {
                 "codepoint": "e8f9",
-                "key": ""
+                "key": "work"
             },
             {
                 "codepoint": "e8fa",
-                "key": ""
+                "key": "youtube_searched_for"
             },
             {
                 "codepoint": "e8fb",
-                "key": ""
+                "key": "eject"
             },
             {
                 "codepoint": "e8fc",
-                "key": ""
+                "key": "camera_enhance"
             },
             {
                 "codepoint": "e8fd",
-                "key": ""
+                "key": "help_outline"
             },
             {
                 "codepoint": "e8fe",
-                "key": ""
+                "key": "reorder"
             },
             {
                 "codepoint": "e8ff",
-                "key": ""
+                "key": "zoom_in"
             },
             {
                 "codepoint": "e900",
-                "key": ""
+                "key": "zoom_out"
             },
             {
                 "codepoint": "e902",
-                "key": ""
+                "key": "http"
             },
             {
                 "codepoint": "e903",
-                "key": ""
+                "key": "event_seat"
             },
             {
                 "codepoint": "e904",
-                "key": ""
+                "key": "flight_land"
             },
             {
                 "codepoint": "e905",
-                "key": ""
+                "key": "flight_takeoff"
             },
             {
                 "codepoint": "e906",
-                "key": ""
+                "key": "play_for_work"
             },
             {
                 "codepoint": "e908",
-                "key": ""
+                "key": "gif"
             },
             {
                 "codepoint": "e909",
-                "key": ""
+                "key": "indeterminate_check_box"
             },
             {
                 "codepoint": "e90a",
-                "key": ""
+                "key": "offline_pin"
             },
             {
                 "codepoint": "e90b",
-                "key": ""
+                "key": "all_out"
             },
             {
                 "codepoint": "e90c",
-                "key": ""
+                "key": "copyright"
             },
             {
                 "codepoint": "e90d",
-                "key": ""
+                "key": "fingerprint"
             },
             {
                 "codepoint": "e90e",
-                "key": ""
+                "key": "gavel"
             },
             {
                 "codepoint": "e90f",
-                "key": ""
+                "key": "lightbulb_outline"
             },
             {
                 "codepoint": "e911",
-                "key": ""
+                "key": "picture_in_picture_alt"
             },
             {
                 "codepoint": "e912",
-                "key": ""
+                "key": "important_devices"
             },
             {
                 "codepoint": "e913",
-                "key": ""
+                "key": "touch_app"
             },
             {
                 "codepoint": "e914",
-                "key": ""
+                "key": "accessible"
             },
             {
                 "codepoint": "e915",
-                "key": ""
+                "key": "compare_arrows"
             },
             {
                 "codepoint": "e916",
-                "key": ""
+                "key": "date_range"
             },
             {
                 "codepoint": "e917",
-                "key": ""
+                "key": "donut_large"
             },
             {
                 "codepoint": "e918",
-                "key": ""
+                "key": "donut_small"
             },
             {
                 "codepoint": "e919",
-                "key": ""
+                "key": "line_style"
             },
             {
                 "codepoint": "e91a",
-                "key": ""
+                "key": "line_weight"
             },
             {
                 "codepoint": "e91b",
-                "key": ""
+                "key": "motorcycle"
             },
             {
                 "codepoint": "e91c",
-                "key": ""
+                "key": "opacity"
             },
             {
                 "codepoint": "e91d",
-                "key": ""
+                "key": "pets"
             },
             {
                 "codepoint": "e91e",
-                "key": ""
+                "key": "pregnant_woman"
             },
             {
                 "codepoint": "e91f",
-                "key": ""
+                "key": "record_voice_over"
             },
             {
                 "codepoint": "e920",
-                "key": ""
+                "key": "rounded_corner"
             },
             {
                 "codepoint": "e921",
-                "key": ""
+                "key": "rowing"
             },
             {
                 "codepoint": "e922",
-                "key": ""
+                "key": "timeline"
             },
             {
                 "codepoint": "e923",
-                "key": ""
+                "key": "update"
             },
             {
                 "codepoint": "e924",
-                "key": ""
+                "key": "watch_later"
             },
             {
                 "codepoint": "e925",
-                "key": ""
+                "key": "pan_tool"
             },
             {
                 "codepoint": "e926",
-                "key": ""
+                "key": "euro_symbol"
             },
             {
                 "codepoint": "e927",
-                "key": ""
+                "key": "g_translate"
             },
             {
                 "codepoint": "e928",
-                "key": ""
+                "key": "remove_shopping_cart"
             },
             {
                 "codepoint": "e929",
-                "key": ""
+                "key": "restore_page"
             },
             {
                 "codepoint": "e92a",
-                "key": ""
+                "key": "speaker_notes_off"
             },
             {
                 "codepoint": "e92b",
-                "key": ""
+                "key": "delete_forever"
             },
             {
                 "codepoint": "e92c",
@@ -4069,75 +4069,75 @@ export default Route.extend({
             },
             {
                 "codepoint": "eb3b",
-                "key": ""
+                "key": "ac_unit"
             },
             {
                 "codepoint": "eb3c",
-                "key": ""
+                "key": "airport_shuttle"
             },
             {
                 "codepoint": "eb3d",
-                "key": ""
+                "key": "all_inclusive"
             },
             {
                 "codepoint": "eb3e",
-                "key": ""
+                "key": "beach_access"
             },
             {
                 "codepoint": "eb3f",
-                "key": ""
+                "key": "business_center"
             },
             {
                 "codepoint": "eb40",
-                "key": ""
+                "key": "casino"
             },
             {
                 "codepoint": "eb41",
-                "key": ""
+                "key": "child_care"
             },
             {
                 "codepoint": "eb42",
-                "key": ""
+                "key": "child_friendly"
             },
             {
                 "codepoint": "eb43",
-                "key": ""
+                "key": "fitness_center"
             },
             {
                 "codepoint": "eb44",
-                "key": ""
+                "key": "free_breakfast"
             },
             {
                 "codepoint": "eb45",
-                "key": ""
+                "key": "golf_course"
             },
             {
                 "codepoint": "eb46",
-                "key": ""
+                "key": "hot_tub"
             },
             {
                 "codepoint": "eb47",
-                "key": ""
+                "key": "kitchen"
             },
             {
                 "codepoint": "eb48",
-                "key": ""
+                "key": "pool"
             },
             {
                 "codepoint": "eb49",
-                "key": ""
+                "key": "room_service"
             },
             {
                 "codepoint": "eb4a",
-                "key": ""
+                "key": "smoke_free"
             },
             {
                 "codepoint": "eb4b",
-                "key": ""
+                "key": "smoking_rooms"
             },
             {
                 "codepoint": "eb4c",
-                "key": ""
+                "key": "spa"
             },
             {
                 "codepoint": "eb4e",
