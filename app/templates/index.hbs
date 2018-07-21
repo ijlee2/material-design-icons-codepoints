@@ -3,10 +3,11 @@
         <div
             id={{character.codepoint}}
             class='codepoint-card {{if character.isNew 'new'}} {{if character.isMissingFromDocumentation 'missing'}} {{unless character.key 'unknown'}}'
-            title={{character.key}}
+            title='{{character.codepoint}} {{character.key}}'
         >
-            <i class='material-icons'>{{character.key}}</i>
+            <i class='codepoint-card--icon material-icons'>{{character.key}}</i>
             <span class='codepoint-card--name'>{{character.codepoint}}</span>
+            <span class='codepoint-card--key'>{{character.key}}</span>
         </div>
     {{/each}}
 </div>
