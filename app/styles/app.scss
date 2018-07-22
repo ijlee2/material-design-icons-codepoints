@@ -50,8 +50,8 @@ body {
 
 
         &--name, &--key {
+            display    : block;
             font-family: 'Quicksand', sans-serif;
-            display: block;
         }
 
         &--icon {
@@ -65,8 +65,9 @@ body {
         }
 
         &--key {
-            word-wrap: break-word;
             padding: 0 5px;
+
+            word-wrap: break-word;
         }
 
 
@@ -83,12 +84,12 @@ body {
         }
 
         &.unknown {
-            border: 1px solid #e2e2e2;
+            border : 1px solid #e2e2e2;
             opacity: 0.3;
         }
 
         &:hover {
-            transform: scale(1.025);
+            transform : scale(1.025);
             transition: 0.1s;
         }
 
@@ -107,8 +108,8 @@ body {
 
             .codepoint-card--name {
                 position: relative;
-                top: 0;
-                left: 0;
+                top     : 0;
+                left    : 0;
             }
 
             &:hover {
