@@ -1,6 +1,6 @@
 import { helper } from '@ember/component/helper';
 
-// Use this helper to prepend '\u' to create a Unicode
+// Use this helper to prepend '&#x' to create a Unicode
 export function unicode(codepoint) {
     codepoint = codepoint.toString();
 

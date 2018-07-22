@@ -4,37 +4,13 @@ export default Component.extend({
     init() {
         this._super(...arguments);
 
-        this.createCodepoints(this.get('exponent'));
+        this.set('isSearching', true);
+        this.createCodepoints(this.exponent);
     },
 
-    didInsertElement() {
-        this._super(...arguments);
-
-        let codepointsFiltered = [];
-
-        this.get('codepoints').forEach(codepoint => {
-            // Use the width to check if the icon is defined
-            let iconElement = document.querySelector(`#${codepoint} i`);
-
-            if (iconElement.offsetWidth < 24) {
-                // Hide the div element
-                iconElement.parentElement.className += ' hide';
-
-            } else {
-                codepointsFiltered.push({
-                    codepoint,
-                    key: ''
-                });
-
-            }
-        });
-
-        this.set('codepointsJSON', JSON.stringify(codepointsFiltered, null, 4));
-    },
-
-    // Create all codepoints that Material Design Icons might use
+    // Create all codepoints that Material Design Icons can use
     createCodepoints(exponent) {
-        let   codepoints    = [];
+        let   allCodepoints = [];
         const numCodepoints = Math.pow(2, exponent);
 
         // Number of hexadecimal characters that we expect to see
@@ -45,12 +21,39 @@ export default Component.extend({
             const i_hex = i.toString(16);
 
             // Pad zeros
-            const codepoint = `e` + '0'.repeat(numCharacters - i_hex.length) + i_hex;
+            const codepoint = 'e' + '0'.repeat(numCharacters - i_hex.length) + i_hex;
 
             // Save
-            codepoints.push(codepoint);
+            allCodepoints.push(codepoint);
         }
 
-        this.set('codepoints', codepoints);
+        this.set('allCodepoints', allCodepoints);
+    },
+
+    didInsertElement() {
+        this._super(...arguments);
+
+        let codepointsFiltered = [];
+
+        this.get('allCodepoints').forEach(codepoint => {
+            // Use the temporary icon element to try to render an icon
+            let iconElement = document.querySelector('#temporary-icon');
+
+            iconElement.innerHTML = `&#x${codepoint};`;
+
+            // Use the width to check if the icon is defined
+            if (iconElement.offsetWidth === 24) {
+                codepointsFiltered.push({
+                    codepoint,
+                    key: ''
+                });
+            }
+        });
+
+        this.set('codepoints', codepointsFiltered.mapBy('codepoint'));
+        this.set('codepointsJSON', JSON.stringify(codepointsFiltered, null, 4));
+
+        // Show all codepoints that will create an icon
+        this.set('isSearching', false);
     }
 });
