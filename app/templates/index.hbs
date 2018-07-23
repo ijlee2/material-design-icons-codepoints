@@ -5,7 +5,11 @@
             class='codepoint-card {{if character.isNew 'new'}} {{if character.isMissingFromDocumentation 'missing'}} {{unless character.key 'unknown'}}'
             title='{{character.codepoint}} {{character.key}}'
         >
-            <i class='codepoint-card--icon material-icons'>{{character.key}}</i>
+            {{#if character.key}}
+                <i class='codepoint-card--icon material-icons'>{{character.key}}</i>
+            {{else}}
+                <i class='codepoint-card--icon material-icons'>{{{unicode character.codepoint}}}</i>
+            {{/if}}
             <span class='codepoint-card--name'>{{character.codepoint}}</span>
             <span class='codepoint-card--key'>{{character.key}}</span>
         </div>
