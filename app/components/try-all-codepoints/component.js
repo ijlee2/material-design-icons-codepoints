@@ -33,12 +33,12 @@ export default Component.extend({
     didInsertElement() {
         this._super(...arguments);
 
+        // Use the temporary icon element to try to render an icon
+        let iconElement = document.getElementById('temporary-icon');
+
         let codepointsFiltered = [];
 
         this.get('allCodepoints').forEach(codepoint => {
-            // Use the temporary icon element to try to render an icon
-            let iconElement = document.querySelector('#temporary-icon');
-
             iconElement.innerHTML = `&#x${codepoint};`;
 
             // Use the width to check if the icon is defined
